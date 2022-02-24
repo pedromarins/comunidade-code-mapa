@@ -2,7 +2,7 @@
 
 
 
-- [ ] Desenhar um mapa na página
+- [X] Desenhar um mapa na página
 - [ ] Colocar um pin no mapa
 - [ ] Ler um lista de membros da mentoria
 - [ ] Criar um pin para cada um
