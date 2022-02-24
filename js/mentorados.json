@@ -1,0 +1,2090 @@
+[
+  {
+    "nome": "Danilo Miranda",
+    "turma": 0,
+    "cidade": "Luziânia",
+    "estado": "GO",
+    "lat": -16.2582454,
+    "long": -47.9352391
+  },
+  {
+    "nome": "Edivan Lima",
+    "turma": 0,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Marcelo Moraes",
+    "turma": 0,
+    "cidade": "Balneário Camboriú",
+    "estado": "SC",
+    "lat": -26.99528,
+    "long": -48.63556
+  },
+  {
+    "nome": "Murilo Carvalho",
+    "turma": 0,
+    "cidade": "Ribeirão Pires",
+    "estado": "SP",
+    "lat": -23.7136396,
+    "long": -46.4136917
+  },
+  {
+    "nome": "Anderson Nunes",
+    "turma": 1,
+    "cidade": "Guarujá",
+    "estado": "SP",
+    "lat": -23.993611,
+    "long": -46.256389
+  },
+  {
+    "nome": "André Silva",
+    "turma": 1,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Cicero Monteiro",
+    "turma": 1,
+    "cidade": "Barbacena",
+    "estado": "MG",
+    "lat": -21.216667,
+    "long": -43.766667
+  },
+  {
+    "nome": "Douglas Moreira",
+    "turma": 1,
+    "cidade": "Sapucaia do Sul",
+    "estado": "RS",
+    "lat": -29.8251543,
+    "long": -51.1486797
+  },
+  {
+    "nome": "Johnny de Paula",
+    "turma": 1,
+    "cidade": "Lençois Paulista",
+    "estado": "SP",
+    "lat": -22.5977355,
+    "long": -48.8001454
+  },
+  {
+    "nome": "Lucas Milare",
+    "turma": 1,
+    "cidade": "Tarumã",
+    "estado": "SP",
+    "lat": -22.7499433,
+    "long": -50.5765358
+  },
+  {
+    "nome": "Marcelo Trancozo",
+    "turma": 1,
+    "cidade": "Praia Grande",
+    "estado": "SP",
+    "lat": -23.9988945,
+    "long": -46.4135444
+  },
+  {
+    "nome": "Raphael Casarini",
+    "turma": 1,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Renan Monteiro",
+    "turma": 1,
+    "cidade": "Pouso Alegre",
+    "estado": "MG",
+    "lat": -22.228056,
+    "long": -45.933611
+  },
+  {
+    "nome": "Ricardo Mellegari",
+    "turma": 1,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "Wesley Paula",
+    "turma": 1,
+    "cidade": "Passos",
+    "estado": "MG",
+    "lat": -20.718889,
+    "long": -46.61
+  },
+  {
+    "nome": "Bruno Luis",
+    "turma": 2,
+    "cidade": "Salvador",
+    "estado": "BA",
+    "lat": -12.974722,
+    "long": -38.476667
+  },
+  {
+    "nome": "Eduardo Scovino",
+    "turma": 2,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "João Soares",
+    "turma": 2,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Jonas Mazarini",
+    "turma": 2,
+    "cidade": "Vargem Grande do Sul",
+    "estado": "SP",
+    "lat": -21.831944,
+    "long": -46.893889
+  },
+  {
+    "nome": "Jordy Alcides",
+    "turma": 2,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Lucas Pontes",
+    "turma": 2,
+    "cidade": "Irati",
+    "estado": "PR",
+    "lat": -25.465556,
+    "long": -50.630833
+  },
+  {
+    "nome": "Mailson Soares",
+    "turma": 2,
+    "cidade": "Porto Velho",
+    "estado": "RO",
+    "lat": -8.7610724,
+    "long": -63.8859771
+  },
+  {
+    "nome": "Marcos Gaiotto",
+    "turma": 2,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Alan Gil",
+    "turma": 3,
+    "cidade": "Manaus",
+    "estado": "AM",
+    "lat": -3.1063916,
+    "long": -60.0262934
+  },
+  {
+    "nome": "Amauri Brandão",
+    "turma": 3,
+    "cidade": "Porto Velho",
+    "estado": "RO",
+    "lat": -8.7610724,
+    "long": -63.8859771
+  },
+  {
+    "nome": "Elkeer Guillen",
+    "turma": 3,
+    "cidade": "Porto Velho",
+    "estado": "RO",
+    "lat": -8.7610724,
+    "long": -63.8859771
+  },
+  {
+    "nome": "Fabricio Dourado",
+    "turma": 3,
+    "cidade": "Pará de Minas",
+    "estado": "MG",
+    "lat": -19.8600605,
+    "long": -44.6078392
+  },
+  {
+    "nome": "Fernando Tavares",
+    "turma": 3,
+    "cidade": "Rio Verde",
+    "estado": "GO",
+    "lat": -21.8834529,
+    "long": -45.0814078
+  },
+  {
+    "nome": "Israel Souza",
+    "turma": 3,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Livio Cunha",
+    "turma": 3,
+    "cidade": "Franca",
+    "estado": "SP",
+    "lat": -20.538611,
+    "long": -47.400833
+  },
+  {
+    "nome": "Lucian Cardoso",
+    "turma": 3,
+    "cidade": "Manaus",
+    "estado": "AM",
+    "lat": -3.1063916,
+    "long": -60.0262934
+  },
+  {
+    "nome": "Matheus Augusto",
+    "turma": 3,
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "lat": -19.9181771,
+    "long": -43.9370534
+  },
+  {
+    "nome": "Nicolas Silva",
+    "turma": 3,
+    "cidade": "São Vicente Ferrer",
+    "estado": "PE",
+    "lat": -7.5903704,
+    "long": -35.4897559
+  },
+  {
+    "nome": "Wesley jacques",
+    "turma": 3,
+    "cidade": "São Leopoldo",
+    "estado": "RS",
+    "lat": -29.76,
+    "long": -51.146944
+  },
+  {
+    "nome": "Weslley Campos",
+    "turma": 3,
+    "cidade": "São Bernardo do Campo",
+    "estado": "SP",
+    "lat": -23.694445,
+    "long": -46.565796
+  },
+  {
+    "nome": "Adriano Lira",
+    "turma": 4,
+    "cidade": "Santo André",
+    "estado": "SP",
+    "lat": -23.6667259,
+    "long": -46.5323593
+  },
+  {
+    "nome": "Bruno Cesar",
+    "turma": 4,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Edio Gama",
+    "turma": 4,
+    "cidade": "Santo André",
+    "estado": "SP",
+    "lat": -23.6667259,
+    "long": -46.5323593
+  },
+  {
+    "nome": "Felipe Marcondes",
+    "turma": 4,
+    "cidade": "Sorocaba",
+    "estado": "SP",
+    "lat": -23.501667,
+    "long": -47.458056
+  },
+  {
+    "nome": "Lécio Vilela",
+    "turma": 4,
+    "cidade": "Uberaba",
+    "estado": "MG",
+    "lat": -19.7500327,
+    "long": -47.9319445
+  },
+  {
+    "nome": "Lucas Amancio",
+    "turma": 4,
+    "cidade": "São João de Meriti",
+    "estado": "RJ",
+    "lat": -22.8038505,
+    "long": -43.3726298
+  },
+  {
+    "nome": "Lucas Mol Leite",
+    "turma": 4,
+    "cidade": "Vitória",
+    "estado": "ES",
+    "lat": -20.318889,
+    "long": -40.337778
+  },
+  {
+    "nome": "Mauricio Gomes",
+    "turma": 4,
+    "cidade": "Camaragibe",
+    "estado": "PE",
+    "lat": -8.0251962,
+    "long": -34.9813798
+  },
+  {
+    "nome": "Rogerio Dino",
+    "turma": 4,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Victor Edward",
+    "turma": 4,
+    "cidade": "Curvelo",
+    "estado": "MG",
+    "lat": -18.755833,
+    "long": -44.430833
+  },
+  {
+    "nome": "Yan Shinayer",
+    "turma": 4,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Allen Halsay",
+    "turma": 7,
+    "cidade": "Bacabal",
+    "estado": "MA",
+    "lat": -4.2306629,
+    "long": -44.7836416
+  },
+  {
+    "nome": "Daniel Carlos",
+    "turma": 7,
+    "cidade": "Sarzedo",
+    "estado": "MG",
+    "lat": -20.035,
+    "long": -44.15
+  },
+  {
+    "nome": "Daniel Santos",
+    "turma": 7,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Diogo Z",
+    "turma": 7,
+    "cidade": "Londrina",
+    "estado": "PR",
+    "lat": -23.31,
+    "long": -51.162778
+  },
+  {
+    "nome": "Douglas Pangaro",
+    "turma": 7,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Eduardo Silva",
+    "turma": 7,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "Erick Canali",
+    "turma": 7,
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "lat": -30.027679,
+    "long": -51.2286404
+  },
+  {
+    "nome": "Fábio Leardini",
+    "turma": 7,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Fernando Borel",
+    "turma": 7,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Gedrick Bartz",
+    "turma": 7,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "Ivan Cichinato",
+    "turma": 7,
+    "cidade": "São Manuel",
+    "estado": "SP",
+    "lat": -22.7478056,
+    "long": -48.5834111
+  },
+  {
+    "nome": "Jeff Lucas",
+    "turma": 7,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "João Neto",
+    "turma": 7,
+    "cidade": "Conchal",
+    "estado": "SP",
+    "lat": -22.3299951,
+    "long": -47.1726062
+  },
+  {
+    "nome": "Jonny William",
+    "turma": 7,
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "lat": -6.2602045,
+    "long": -38.4435417
+  },
+  {
+    "nome": "Leandro Sales",
+    "turma": 7,
+    "cidade": "Nova Iguaçu",
+    "estado": "RJ",
+    "lat": -22.7597835,
+    "long": -43.45151
+  },
+  {
+    "nome": "Matheus Besse",
+    "turma": 7,
+    "cidade": "Itapira",
+    "estado": "SP",
+    "lat": -22.436111,
+    "long": -46.821667
+  },
+  {
+    "nome": "Rafael Tivane",
+    "turma": 7,
+    "cidade": "Maputo",
+    "estado": "Moçambique",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Renato Lewkowicz",
+    "turma": 7,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Rodrigo Lima",
+    "turma": 7,
+    "cidade": "Santarém",
+    "estado": "PA",
+    "lat": -2.43,
+    "long": -54.72
+  },
+  {
+    "nome": "Vinícius Soares",
+    "turma": 7,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Vinicius Tocchio",
+    "turma": 7,
+    "cidade": "São Caetano do Sul",
+    "estado": "SP",
+    "lat": -23.622657,
+    "long": -46.548856
+  },
+  {
+    "nome": "Adriano Cesar",
+    "turma": 8,
+    "cidade": "Betim",
+    "estado": "MG",
+    "lat": -19.967279,
+    "long": -44.198692
+  },
+  {
+    "nome": "Auricelio Freitas",
+    "turma": 8,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Caio Correa",
+    "turma": 8,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Celson Oliveira",
+    "turma": 8,
+    "cidade": "Baião",
+    "estado": "PA",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Daniel Coelho",
+    "turma": 8,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Daniel Strano",
+    "turma": 8,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Dirceu Barquette",
+    "turma": 8,
+    "cidade": "Rio das Ostras",
+    "estado": "RJ",
+    "lat": -22.526944,
+    "long": -41.945
+  },
+  {
+    "nome": "Giliard Pereira",
+    "turma": 8,
+    "cidade": "Mogi das Cruzes",
+    "estado": "SP",
+    "lat": -23.5254424,
+    "long": -46.1870725
+  },
+  {
+    "nome": "Guilherme Sawicki",
+    "turma": 8,
+    "cidade": "Santa Rosa",
+    "estado": "RS",
+    "lat": -21.47278,
+    "long": -47.36306
+  },
+  {
+    "nome": "Gustavo Brasil",
+    "turma": 8,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Hugo Corrêa",
+    "turma": 8,
+    "cidade": "Campos",
+    "estado": "RJ",
+    "lat": -21.7545269,
+    "long": -41.3246064
+  },
+  {
+    "nome": "Janderson Campêlo",
+    "turma": 8,
+    "cidade": "Toledo",
+    "estado": "PR",
+    "lat": 41.665556,
+    "long": -83.575278
+  },
+  {
+    "nome": "Lucas Souza",
+    "turma": 8,
+    "cidade": "Recife",
+    "estado": "PE",
+    "lat": -8.0551894,
+    "long": -34.871176
+  },
+  {
+    "nome": "Paulo Carvalho",
+    "turma": 8,
+    "cidade": "Viçosa do Ceará",
+    "estado": "CE",
+    "lat": -3.566667,
+    "long": -41.083333
+  },
+  {
+    "nome": "Paulo Stryder",
+    "turma": 8,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Paulo Victor",
+    "turma": 8,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Rodolfo Martins",
+    "turma": 8,
+    "cidade": "Candeias",
+    "estado": "MG",
+    "lat": -20.7669,
+    "long": -45.2758
+  },
+  {
+    "nome": "Bruno Eduardo",
+    "turma": 9,
+    "cidade": "Toledo",
+    "estado": "SP",
+    "lat": 41.665556,
+    "long": -83.575278
+  },
+  {
+    "nome": "Bruno Milano",
+    "turma": 9,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Bruno Sabbag Machado",
+    "turma": 9,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "César Morgado",
+    "turma": 9,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Cleverson Lira",
+    "turma": 9,
+    "cidade": "Taboão da Serra",
+    "estado": "SP",
+    "lat": -23.6075269,
+    "long": -46.7529597
+  },
+  {
+    "nome": "Daniel Saldanha",
+    "turma": 9,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Daniel Sóstenes",
+    "turma": 9,
+    "cidade": "Brotas",
+    "estado": "SP",
+    "lat": -22.2869616,
+    "long": -48.1271324
+  },
+  {
+    "nome": "Danilo Chaves",
+    "turma": 9,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Dener Oliveira",
+    "turma": 9,
+    "cidade": "Jandira",
+    "estado": "SP",
+    "lat": -23.527778,
+    "long": -46.902778
+  },
+  {
+    "nome": "Derick Lucas",
+    "turma": 9,
+    "cidade": "Serra",
+    "estado": "ES",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Felipe Rosa",
+    "turma": 9,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Fernando Alencar",
+    "turma": 9,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Heder Alves",
+    "turma": 9,
+    "cidade": "Contenda",
+    "estado": "PR",
+    "lat": -25.6758,
+    "long": -49.535
+  },
+  {
+    "nome": "Jean Fraga",
+    "turma": 9,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Jhone Mike",
+    "turma": 9,
+    "cidade": "Matão",
+    "estado": "SP",
+    "lat": -21.603333,
+    "long": -48.365833
+  },
+  {
+    "nome": "João Pedro Almeida",
+    "turma": 9,
+    "cidade": "Vila Velha",
+    "estado": "ES",
+    "lat": -20.3368375,
+    "long": -40.2919277
+  },
+  {
+    "nome": "João Vitor Mendes de Oliveira",
+    "turma": 9,
+    "cidade": "Itaporanga",
+    "estado": "SP",
+    "lat": -23.70778,
+    "long": -49.48972
+  },
+  {
+    "nome": "Lucas Bertoloto",
+    "turma": 9,
+    "cidade": "Nilópolis",
+    "estado": "RJ",
+    "lat": -22.807778,
+    "long": -43.413889
+  },
+  {
+    "nome": "Lucas Figueiredo",
+    "turma": 9,
+    "cidade": "Recife",
+    "estado": "PE",
+    "lat": -8.0551894,
+    "long": -34.871176
+  },
+  {
+    "nome": "Lucas Motoso",
+    "turma": 9,
+    "cidade": "Jandira",
+    "estado": "SP",
+    "lat": -23.527778,
+    "long": -46.902778
+  },
+  {
+    "nome": "Marcos Vinicius",
+    "turma": 9,
+    "cidade": "São Vicente",
+    "estado": "SP",
+    "lat": -23.963333,
+    "long": -46.392222
+  },
+  {
+    "nome": "Paulo Henrique Costa",
+    "turma": 9,
+    "cidade": "Jundiaí",
+    "estado": "SP",
+    "lat": -23.187081,
+    "long": -46.884048
+  },
+  {
+    "nome": "Renan Lima",
+    "turma": 9,
+    "cidade": "Poá",
+    "estado": "SP",
+    "lat": -23.525373,
+    "long": -46.344618
+  },
+  {
+    "nome": "Rodrigo Botelho",
+    "turma": 9,
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "lat": -19.9181771,
+    "long": -43.9370534
+  },
+  {
+    "nome": "Rodrigo Carvalho",
+    "turma": 9,
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "lat": -6.2602045,
+    "long": -38.4435417
+  },
+  {
+    "nome": "Rodrigo Vianna",
+    "turma": 9,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Ubiraci Junior",
+    "turma": 9,
+    "cidade": "Abadiânia",
+    "estado": "GO",
+    "lat": -16.1979817,
+    "long": -48.7054739
+  },
+  {
+    "nome": "Wander Ferreira",
+    "turma": 9,
+    "cidade": "Delfinópolis",
+    "estado": "MG",
+    "lat": -20.343889,
+    "long": -46.853889
+  },
+  {
+    "nome": "Alexandre Rocha",
+    "turma": 10,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Allan Abrahão",
+    "turma": 10,
+    "cidade": "Lages",
+    "estado": "SC",
+    "lat": -27.81648,
+    "long": -50.3267776
+  },
+  {
+    "nome": "Anderson Brazão",
+    "turma": 10,
+    "cidade": "Santos",
+    "estado": "SP",
+    "lat": -23.9562885,
+    "long": -46.3264601
+  },
+  {
+    "nome": "Arthur Scarpati",
+    "turma": 10,
+    "cidade": "Aracruz",
+    "estado": "ES",
+    "lat": -19.82,
+    "long": -40.272778
+  },
+  {
+    "nome": "Bárbara Gabriela",
+    "turma": 10,
+    "cidade": "Rafael Fernandes",
+    "estado": "RN",
+    "lat": -6.1910478,
+    "long": -38.224256
+  },
+  {
+    "nome": "Bruno Staine",
+    "turma": 10,
+    "cidade": "Brasilia",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Bruno Uchôa",
+    "turma": 10,
+    "cidade": "Mesquita",
+    "estado": "RJ",
+    "lat": -22.781944,
+    "long": -43.428889
+  },
+  {
+    "nome": "Carlos Gizbert",
+    "turma": 10,
+    "cidade": "Praia Grande",
+    "estado": "SP",
+    "lat": -23.9988945,
+    "long": -46.4135444
+  },
+  {
+    "nome": "Carlos Magno",
+    "turma": 10,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Cristiane Nicolini",
+    "turma": 10,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Elias Junior",
+    "turma": 10,
+    "cidade": "Duque de Caxias",
+    "estado": "RJ",
+    "lat": -22.785948,
+    "long": -43.3131828
+  },
+  {
+    "nome": "Felipe Campos",
+    "turma": 10,
+    "cidade": "Sorocaba",
+    "estado": "SP",
+    "lat": -23.501667,
+    "long": -47.458056
+  },
+  {
+    "nome": "Gabriel Nunes",
+    "turma": 10,
+    "cidade": "São José",
+    "estado": "SC",
+    "lat": -23.1791361,
+    "long": -45.8872353
+  },
+  {
+    "nome": "Gabriela Cantarini",
+    "turma": 10,
+    "cidade": "Bombarral, Leiria",
+    "estado": "Portugal",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Guilherme Rodrigues",
+    "turma": 10,
+    "cidade": "Ferraz de Vasconcelos",
+    "estado": "SP",
+    "lat": -23.5405399,
+    "long": -46.3692266
+  },
+  {
+    "nome": "Jean Meira",
+    "turma": 10,
+    "cidade": "Alumínio",
+    "estado": "SP",
+    "lat": -23.535278,
+    "long": -47.262222
+  },
+  {
+    "nome": "João Francisco",
+    "turma": 10,
+    "cidade": "Coronel Vivida",
+    "estado": "PR",
+    "lat": -25.9880557,
+    "long": -52.5669516
+  },
+  {
+    "nome": "Jonathan Lopes",
+    "turma": 10,
+    "cidade": "Itaquaquecetuba",
+    "estado": "SP",
+    "lat": -23.486389,
+    "long": -46.348611
+  },
+  {
+    "nome": "Jorge Thiago",
+    "turma": 10,
+    "cidade": "São Pedro da Aldeia",
+    "estado": "RJ",
+    "lat": -22.838889,
+    "long": -42.102778
+  },
+  {
+    "nome": "Kevyn Rocha",
+    "turma": 10,
+    "cidade": "Teixeira de Freitas",
+    "estado": "BA",
+    "lat": -17.538733,
+    "long": -39.743783
+  },
+  {
+    "nome": "Lucas Vuletic",
+    "turma": 10,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Marcio Orlandini",
+    "turma": 10,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Marcos Maia",
+    "turma": 10,
+    "cidade": "Recife",
+    "estado": "PE",
+    "lat": -8.0551894,
+    "long": -34.871176
+  },
+  {
+    "nome": "Michel Wene",
+    "turma": 10,
+    "cidade": "Quatá",
+    "estado": "SP",
+    "lat": -22.2473656,
+    "long": -50.6975798
+  },
+  {
+    "nome": "Nathan Pagotto",
+    "turma": 10,
+    "cidade": "Capivari",
+    "estado": "SP",
+    "lat": -22.995,
+    "long": -47.507778
+  },
+  {
+    "nome": "Osmar Macedo Junior",
+    "turma": 10,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Paula Schunck",
+    "turma": 10,
+    "cidade": "Taquara",
+    "estado": "RS",
+    "lat": -29.6515682,
+    "long": -50.7772734
+  },
+  {
+    "nome": "Rafael Scussiato",
+    "turma": 10,
+    "cidade": "Chapecó",
+    "estado": "SC",
+    "lat": -27.0952243,
+    "long": -52.6181683
+  },
+  {
+    "nome": "Ramon Brito",
+    "turma": 10,
+    "cidade": "São José dos Pinhais",
+    "estado": "PR",
+    "lat": -25.5326509,
+    "long": -49.0889425
+  },
+  {
+    "nome": "Renan Favero",
+    "turma": 10,
+    "cidade": "Americana",
+    "estado": "SP",
+    "lat": -22.738611,
+    "long": -47.331111
+  },
+  {
+    "nome": "Rikelvem Silva",
+    "turma": 10,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Tânia Miguel",
+    "turma": 10,
+    "cidade": "Cambé",
+    "estado": "PR",
+    "lat": -23.233333,
+    "long": -51.25
+  },
+  {
+    "nome": "Teddy Andrade",
+    "turma": 10,
+    "cidade": "Brasilia",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Thiago Jordão",
+    "turma": 10,
+    "cidade": "João Câmara",
+    "estado": "RN",
+    "lat": -5.5392898,
+    "long": -35.8187438
+  },
+  {
+    "nome": "Tiago Chacon",
+    "turma": 10,
+    "cidade": "Québec",
+    "estado": "Canadá",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Uítalo Souza",
+    "turma": 10,
+    "cidade": "Salvador",
+    "estado": "BA",
+    "lat": -12.974722,
+    "long": -38.476667
+  },
+  {
+    "nome": "Valério Dias",
+    "turma": 10,
+    "cidade": "Nilópolis",
+    "estado": "RJ",
+    "lat": -22.807778,
+    "long": -43.413889
+  },
+  {
+    "nome": "Vitor Lobo",
+    "turma": 10,
+    "cidade": "Vitória",
+    "estado": "ES",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Wendell Santos",
+    "turma": 10,
+    "cidade": "Niterói",
+    "estado": "RJ",
+    "lat": -22.8898227,
+    "long": -43.1220775
+  },
+  {
+    "nome": "Alan Angeli",
+    "turma": 11,
+    "cidade": "Santo André",
+    "estado": "SP",
+    "lat": -23.6667259,
+    "long": -46.5323593
+  },
+  {
+    "nome": "Amanda Estrela",
+    "turma": 11,
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "lat": -27.5935,
+    "long": -48.55854
+  },
+  {
+    "nome": "Ana Paula Cury",
+    "turma": 11,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Ana Paula Pereira Araújo",
+    "turma": 11,
+    "cidade": "Araxá",
+    "estado": "MG",
+    "lat": -19.5920781,
+    "long": -46.9405517
+  },
+  {
+    "nome": "André Barbosa",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Angela Caldas",
+    "turma": 11,
+    "cidade": "São Luís",
+    "estado": "MA",
+    "lat": -2.529451,
+    "long": -44.296947
+  },
+  {
+    "nome": "Aurelio Carvalho",
+    "turma": 11,
+    "cidade": "Santa Teresa",
+    "estado": "ES",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Bruno Emerich Ferreira",
+    "turma": 11,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Bruno Rocha",
+    "turma": 11,
+    "cidade": "Uberlândia",
+    "estado": "MG",
+    "lat": -18.923056,
+    "long": -48.288611
+  },
+  {
+    "nome": "Bruno Weber",
+    "turma": 11,
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "lat": -27.5935,
+    "long": -48.55854
+  },
+  {
+    "nome": "Camila de Oliveira",
+    "turma": 11,
+    "cidade": "Birigui",
+    "estado": "SP",
+    "lat": -21.2921137,
+    "long": -50.3401193
+  },
+  {
+    "nome": "Caue Norci",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "César Ventura",
+    "turma": 11,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "David Pires",
+    "turma": 11,
+    "cidade": "Taguatinga",
+    "estado": "DF",
+    "lat": -15.8314149,
+    "long": -48.0577999
+  },
+  {
+    "nome": "Demétrio Nascimento",
+    "turma": 11,
+    "cidade": "Boa Vista",
+    "estado": "RR",
+    "lat": 2.8192275,
+    "long": -60.6706554
+  },
+  {
+    "nome": "Douglas Silva",
+    "turma": 11,
+    "cidade": "Gravataí",
+    "estado": "RS",
+    "lat": -29.9437643,
+    "long": -50.9935619
+  },
+  {
+    "nome": "Eder Bronson",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Eduardo Gerbelli",
+    "turma": 11,
+    "cidade": "Londres",
+    "estado": "United Kingdom",
+    "lat": 51.5001524,
+    "long": -0.1262362
+  },
+  {
+    "nome": "Eduardo Leone",
+    "turma": 11,
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "lat": -20.462222,
+    "long": -54.611111
+  },
+  {
+    "nome": "Elemar Rapachi",
+    "turma": 11,
+    "cidade": "Passo Fundo",
+    "estado": "RS",
+    "lat": -28.2623536,
+    "long": -52.408987
+  },
+  {
+    "nome": "Emmanuel Lira",
+    "turma": 11,
+    "cidade": "Campina Grande",
+    "estado": "PB",
+    "lat": -7.2309499,
+    "long": -35.8818939
+  },
+  {
+    "nome": "Felipe Camargo Fernandes",
+    "turma": 11,
+    "cidade": "Praia Grande",
+    "estado": "SP",
+    "lat": -23.9988945,
+    "long": -46.4135444
+  },
+  {
+    "nome": "Gabriel Assana",
+    "turma": 11,
+    "cidade": "Taboão da Serra",
+    "estado": "SP",
+    "lat": -23.6075269,
+    "long": -46.7529597
+  },
+  {
+    "nome": "Gabriel Ferreira de Queiroz",
+    "turma": 11,
+    "cidade": "Osasco",
+    "estado": "SP",
+    "lat": -23.5315745,
+    "long": -46.7898879
+  },
+  {
+    "nome": "Gustavo Marquizeppe",
+    "turma": 11,
+    "cidade": "Cotia",
+    "estado": "SP",
+    "lat": -23.604167,
+    "long": -46.919444
+  },
+  {
+    "nome": "Isabella da Silva Martins",
+    "turma": 11,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Jefferson Cabral",
+    "turma": 11,
+    "cidade": "São José dos Campos",
+    "estado": "SP",
+    "lat": -23.1791361,
+    "long": -45.8872353
+  },
+  {
+    "nome": "João Otávio",
+    "turma": 11,
+    "cidade": "Birigui",
+    "estado": "SP",
+    "lat": -21.2921137,
+    "long": -50.3401193
+  },
+  {
+    "nome": "Júnior Colares",
+    "turma": 11,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Leonardo Rodrigues",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Lúcio Israel",
+    "turma": 11,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Marco Aurélio da Silva",
+    "turma": 11,
+    "cidade": "Goiânia",
+    "estado": "GO",
+    "lat": -16.6805153,
+    "long": -49.2561268
+  },
+  {
+    "nome": "Maycon Douglas",
+    "turma": 11,
+    "cidade": "Planaltina",
+    "estado": "GO",
+    "lat": -15.4525482,
+    "long": -47.6157354
+  },
+  {
+    "nome": "Natalia Ciribello",
+    "turma": 11,
+    "cidade": "Leme",
+    "estado": "SP",
+    "lat": -22.186111,
+    "long": -47.390556
+  },
+  {
+    "nome": "Patrick Guedes de Oliveira",
+    "turma": 11,
+    "cidade": "São Luis",
+    "estado": "MA",
+    "lat": -2.529451,
+    "long": -44.296947
+  },
+  {
+    "nome": "Pedro Groppa",
+    "turma": 11,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Pedro Henrique Costa",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Pedro Henrique Vincenzi",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Pedro Marcos",
+    "turma": 11,
+    "cidade": "São Gonçalo",
+    "estado": "RJ",
+    "lat": -22.826944,
+    "long": -43.053889
+  },
+  {
+    "nome": "Rafael Rosa",
+    "turma": 11,
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "lat": -19.9181771,
+    "long": -43.9370534
+  },
+  {
+    "nome": "Rafael Torres",
+    "turma": 11,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Roberto Martins Juchem",
+    "turma": 11,
+    "cidade": "Blumenau",
+    "estado": "SC",
+    "lat": -26.9189417,
+    "long": -49.0660575
+  },
+  {
+    "nome": "Robson Leal",
+    "turma": 11,
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "lat": -30.027679,
+    "long": -51.2286404
+  },
+  {
+    "nome": "Rodolfo Fialho da Costa",
+    "turma": 11,
+    "cidade": "Itaquaquecetuba",
+    "estado": "SP",
+    "lat": -23.486389,
+    "long": -46.348611
+  },
+  {
+    "nome": "Rodrigo Arantes",
+    "turma": 11,
+    "cidade": "Recife",
+    "estado": "PE",
+    "lat": -8.0551894,
+    "long": -34.871176
+  },
+  {
+    "nome": "Rodrigo Navarro",
+    "turma": 11,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Rosana Cristina Mascena",
+    "turma": 11,
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "lat": -30.027679,
+    "long": -51.2286404
+  },
+  {
+    "nome": "Ruan Carlos",
+    "turma": 11,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Saulo Pascon",
+    "turma": 11,
+    "cidade": "Sumaré",
+    "estado": "SP",
+    "lat": -22.82194,
+    "long": -47.26694
+  },
+  {
+    "nome": "Sidney Siqueira",
+    "turma": 11,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Stanley Shen dos Santos",
+    "turma": 11,
+    "cidade": "Pindamonhangaba",
+    "estado": "SP",
+    "lat": -22.923487,
+    "long": -45.459842
+  },
+  {
+    "nome": "Swamiy Saraiva Gabriel de Campos",
+    "turma": 11,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Victor Launé",
+    "turma": 11,
+    "cidade": "São Luis",
+    "estado": "MA",
+    "lat": -2.529451,
+    "long": -44.296947
+  },
+  {
+    "nome": "Victor Teodoro",
+    "turma": 11,
+    "cidade": "Porto",
+    "estado": "Portugal",
+    "lat": 41.1501526,
+    "long": -8.610318
+  },
+  {
+    "nome": "Vinicius Ribeiro",
+    "turma": 11,
+    "cidade": "Salvador",
+    "estado": "BA",
+    "lat": -12.974722,
+    "long": -38.476667
+  },
+  {
+    "nome": "Vitor Augusto",
+    "turma": 11,
+    "cidade": "Contagem",
+    "estado": "MG",
+    "lat": -19.931944,
+    "long": -44.053889
+  },
+  {
+    "nome": "Well Ramos",
+    "turma": 11,
+    "cidade": "Recife",
+    "estado": "PE",
+    "lat": -8.0551894,
+    "long": -34.871176
+  },
+  {
+    "nome": "Wesley Marcelino",
+    "turma": 11,
+    "cidade": "Juiz de Fora",
+    "estado": "MG",
+    "lat": -21.761944,
+    "long": -43.349444
+  },
+  {
+    "nome": "William Garcia",
+    "turma": 11,
+    "cidade": "Passo Fundo",
+    "estado": "RS",
+    "lat": -28.2623536,
+    "long": -52.408987
+  },
+  {
+    "nome": "William Irassochio",
+    "turma": 11,
+    "cidade": "Arroio do Sal",
+    "estado": "RS",
+    "lat": -29.550833,
+    "long": -49.888889
+  },
+  {
+    "nome": "Carlos Jefferson",
+    "turma": 12,
+    "cidade": "Paranatinga",
+    "estado": "MT",
+    "lat": -14.4270271,
+    "long": -54.0484815
+  },
+  {
+    "nome": "Thiago Santanna",
+    "turma": 12,
+    "cidade": "Recife",
+    "estado": "PE",
+    "lat": -8.0551894,
+    "long": -34.871176
+  },
+  {
+    "nome": "Francielle Ribeiro",
+    "turma": 12,
+    "cidade": "Porto Seguro",
+    "estado": "BA",
+    "lat": -16.4508765,
+    "long": -39.0643332
+  },
+  {
+    "nome": "Paulo Santana",
+    "turma": 12,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Caroline Barbosa Vilar",
+    "turma": 12,
+    "cidade": "São Bernardo do Campo",
+    "estado": "SP",
+    "lat": -23.694445,
+    "long": -46.565796
+  },
+  {
+    "nome": "Alex Corrêa Sales",
+    "turma": 12,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "Douglas Figueiredo",
+    "turma": 12,
+    "cidade": "Palhoça",
+    "estado": "SC",
+    "lat": -27.644444,
+    "long": -48.667778
+  },
+  {
+    "nome": "Lucas Samuel",
+    "turma": 12,
+    "cidade": "Itabiriro",
+    "estado": "MG",
+    "lat": -20.252778,
+    "long": -43.800833
+  },
+  {
+    "nome": "Leonardo Weiss",
+    "turma": 12,
+    "cidade": "Planalto",
+    "estado": "BA",
+    "lat": -21.034722,
+    "long": -49.929444
+  },
+  {
+    "nome": "Matheus Ferreira",
+    "turma": 12,
+    "cidade": "Juiz de Fora",
+    "estado": "MG",
+    "lat": -21.761944,
+    "long": -43.349444
+  },
+  {
+    "nome": "Nayana Loivos",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Ulisses Silvério",
+    "turma": 12,
+    "cidade": "Divinópolis",
+    "estado": "MG",
+    "lat": -20.1393735,
+    "long": -44.8869936
+  },
+  {
+    "nome": "Anna Moura Sobral",
+    "turma": 12,
+    "cidade": "Copenhagen",
+    "estado": "Dinamarca",
+    "lat": 55.675757,
+    "long": 12.5690233
+  },
+  {
+    "nome": "Jose Carlos Sant'Anna Junior",
+    "turma": 12,
+    "cidade": "São José do Rio Preto",
+    "estado": "SP",
+    "lat": -20.8108698,
+    "long": -49.3791295
+  },
+  {
+    "nome": "Dimas Capelari",
+    "turma": 12,
+    "cidade": "São José do Rio Pardo",
+    "estado": "SP",
+    "lat": -21.595556,
+    "long": -46.888611
+  },
+  {
+    "nome": "Rhaná Teixeira",
+    "turma": 12,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "lat": -3.718333,
+    "long": -38.542778
+  },
+  {
+    "nome": "Vinicius Souza Oliveira",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Paulo Eduardo Ribeiro e Silva",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Manoel Arruda",
+    "turma": 12,
+    "cidade": "Magé",
+    "estado": "RJ",
+    "lat": -22.652778,
+    "long": -43.040833
+  },
+  {
+    "nome": "Rodrigo Cardoso da Silva",
+    "turma": 12,
+    "cidade": "São Mateus",
+    "estado": "SP",
+    "lat": -18.715833,
+    "long": -39.858889
+  },
+  {
+    "nome": "Fernando Mercado",
+    "turma": 12,
+    "cidade": "Birigui",
+    "estado": "SP",
+    "lat": -21.2921137,
+    "long": -50.3401193
+  },
+  {
+    "nome": "Christian Seidler",
+    "turma": 12,
+    "cidade": "Porto Belo",
+    "estado": "SC",
+    "lat": -27.1581538,
+    "long": -48.5536686
+  },
+  {
+    "nome": "Emerson Nascimento Freire",
+    "turma": 12,
+    "cidade": "Hortolândia",
+    "estado": "SP",
+    "lat": -22.858333,
+    "long": -47.22
+  },
+  {
+    "nome": "Gilvan Medeiros de Castro",
+    "turma": 12,
+    "cidade": "Asa Branca",
+    "estado": "RN",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "nome": "Francelino Marcilo da Silva",
+    "turma": 12,
+    "cidade": "São Paulo do Potengi",
+    "estado": "RN",
+    "lat": -5.8973693,
+    "long": -35.7694868
+  },
+  {
+    "nome": "Carlos Guergolet",
+    "turma": 12,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "José Carlos",
+    "turma": 12,
+    "cidade": "Esmeraldas",
+    "estado": "MG",
+    "lat": -19.762778,
+    "long": -44.313889
+  },
+  {
+    "nome": "Gabriel Gerolineto",
+    "turma": 12,
+    "cidade": "Uberlândia",
+    "estado": "MG",
+    "lat": -18.923056,
+    "long": -48.288611
+  },
+  {
+    "nome": "Natalia Jordana",
+    "turma": 12,
+    "cidade": "Nova Iguaçu",
+    "estado": "RJ",
+    "lat": -22.7597835,
+    "long": -43.45151
+  },
+  {
+    "nome": "Pedro Alexsander",
+    "turma": 12,
+    "cidade": "Juiz de Fora",
+    "estado": "MG",
+    "lat": -21.761944,
+    "long": -43.349444
+  },
+  {
+    "nome": "Júlio Cezar",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Patrícia de Oliveira",
+    "turma": 12,
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  },
+  {
+    "nome": "Douglas Figueiredo",
+    "turma": 12,
+    "cidade": "Nova Iguaçu",
+    "estado": "RJ",
+    "lat": -22.7597835,
+    "long": -43.45151
+  },
+  {
+    "nome": "Glenda Esteves",
+    "turma": 12,
+    "cidade": "São Carlos",
+    "estado": "SP",
+    "lat": -22.0167169,
+    "long": -47.8919709
+  },
+  {
+    "nome": "Walter Soprani Júnior",
+    "turma": 12,
+    "cidade": "Mogi das Cruzes",
+    "estado": "SP",
+    "lat": -23.5254424,
+    "long": -46.1870725
+  },
+  {
+    "nome": "Thiago Lemes",
+    "turma": 12,
+    "cidade": "Fazenda Rio Grande",
+    "estado": "PR",
+    "lat": -25.6578,
+    "long": -49.3078
+  },
+  {
+    "nome": "Walter Lima Viana",
+    "turma": 12,
+    "cidade": "São Bernardo do Campo",
+    "estado": "SP",
+    "lat": -23.694445,
+    "long": -46.565796
+  },
+  {
+    "nome": "Bruno Rodrigues Borelli",
+    "turma": 12,
+    "cidade": "Goiânia",
+    "estado": "GO",
+    "lat": -16.6805153,
+    "long": -49.2561268
+  },
+  {
+    "nome": "Ramon Costa",
+    "turma": 12,
+    "cidade": "Itapecerica",
+    "estado": "MG",
+    "lat": -20.47278,
+    "long": -46.12583
+  },
+  {
+    "nome": "Natã Muniz",
+    "turma": 12,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "lat": -22.9014475,
+    "long": -43.1789159
+  },
+  {
+    "nome": "Eduarda Bezerra",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Keylla Rodrigues",
+    "turma": 12,
+    "cidade": "Langley, BC",
+    "estado": "Canadá",
+    "lat": 49.1043335,
+    "long": -122.6660859
+  },
+  {
+    "nome": "Hans Sérgio",
+    "turma": 12,
+    "cidade": "Brasilia",
+    "estado": "DF",
+    "lat": -15.7793842,
+    "long": -47.9257379
+  },
+  {
+    "nome": "Gabriel Santos",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Gustavo Bernardes",
+    "turma": 12,
+    "cidade": "Francisco Morato",
+    "estado": "SP",
+    "lat": -23.281667,
+    "long": -46.7425
+  },
+  {
+    "nome": "Juliana Brandão",
+    "turma": 12,
+    "cidade": "Manaus",
+    "estado": "AM",
+    "lat": -3.1063916,
+    "long": -60.0262934
+  },
+  {
+    "nome": "Daniel de Carvalho",
+    "turma": 12,
+    "cidade": "Guanhães",
+    "estado": "MG",
+    "lat": -18.7777082,
+    "long": -42.9363032
+  },
+  {
+    "nome": "Taina Santos",
+    "turma": 12,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "lat": -23.5486657,
+    "long": -46.6382522
+  },
+  {
+    "nome": "Milton Pinho",
+    "turma": 12,
+    "cidade": "Ilhéus",
+    "estado": "BA",
+    "lat": -14.788889,
+    "long": -39.048889
+  },
+  {
+    "nome": "Alexandre Silva",
+    "turma": 12,
+    "cidade": "Curitiba",
+    "estado": "PA",
+    "lat": -25.4283563,
+    "long": -49.2732515
+  }
+]
