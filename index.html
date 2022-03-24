@@ -10,9 +10,13 @@
 
     <link rel="stylesheet" href="css/style.css">
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/"></script>
+    <link rel="stylesheet" href="./js/plugins/leaflet/leaflet.css"/>
+    <link rel="stylesheet" href="./js/plugins/Leaflet.markercluster-1.4.1/dist/MarkerCluster.css"/>
+    <link rel="stylesheet" href="./js/plugins/Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css"/>
+    
+    <script src="./js/plugins/leaflet/leaflet.js"></script>
+    <script src="./js/plugins/Leaflet.markercluster-1.4.1/dist/leaflet.markercluster.js"></script>
+
 	<style>
 		
 	</style>
@@ -20,20 +24,7 @@
 <body>
     <div id="map"></div>
     <script>
-        fetch("./js/mentorados.json")
-        .then(response => {
-            return response.json();
-        })
-        .then(mentorados => {
-            mentorados.forEach(element => {
-                L.marker([element.lat, element.long]).addTo(map).bindPopup(
-                    `Nome: ${element.nome} <br>
-                    Turma: ${element.turma}`);
-            });
-        });
-
         var map = L.map('map').setView([-13.518, -51.372], 3);
-        
 
         var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
             maxZoom: 18,
@@ -44,6 +35,25 @@
             zoomOffset: -1
         }).addTo(map);
 
+        var markers = L.markerClusterGroup();
+
+        fetch("./js/mentorados.json")
+        .then(response => {
+            return response.json();
+        })
+        .then(mentorados => {
+            mentorados.forEach(element => {
+                let coord = element.coord.split(",")
+                markers.addLayer(
+                    L.marker([coord[0], coord[1]]).bindPopup(
+                        `Nome: ${element.nome} <br>
+                        Turma: ${element.turma}`
+                    )
+                )
+            });
+        });
+        
+        map.addLayer(markers);
     </script>
 </body>
 </html>
