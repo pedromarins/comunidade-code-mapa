@@ -1,23 +1,5 @@
 [
   {
-    "nome": "Vinicius Tocchio",
-    "time": 7,
-    "cidade": "",
-    "estado": "Munich",
-    "endereco": ", Munich",
-    "pais": "de",
-    "coord": "48.1351253,11.5819806"
-  },
-  {
-    "nome": "Rafaella Ferreira",
-    "time": 13,
-    "cidade": "",
-    "estado": "Bruxelas",
-    "endereco": ", Bruxelas",
-    "pais": "be",
-    "coord": "50.8476424,4.3571696"
-  },
-  {
     "nome": "Danilo Miranda",
     "time": 0,
     "cidade": "Luziânia",
@@ -96,7 +78,7 @@
     "estado": "SP",
     "endereco": "Lençois Paulista, SP",
     "pais": "br",
-    "coord": "-22.5988095,-48.7923795"
+    "coord": "-22.5988,-48.7923848"
   },
   {
     "nome": "Lucas Milare",
@@ -132,7 +114,7 @@
     "estado": "MG",
     "endereco": "Pouso Alegre, MG",
     "pais": "br",
-    "coord": "-22.2270961,-45.9393536"
+    "coord": "-22.2270778,-45.93937160000001"
   },
   {
     "nome": "Ricardo Mellegari",
@@ -432,6 +414,15 @@
     "coord": "-22.9068467,-43.1728965"
   },
   {
+    "nome": "Vinicius Tocchio",
+    "time": 7,
+    "cidade": "",
+    "estado": "Munich",
+    "endereco": ", Munich",
+    "pais": "de",
+    "coord": "48.1351253,11.5819806"
+  },
+  {
     "nome": "Allen Halsay",
     "time": 7,
     "cidade": "Bacabal",
@@ -603,42 +594,6 @@
     "coord": "-23.5557714,-46.6395571"
   },
   {
-    "nome": "Tiago Chacon",
-    "time": 10,
-    "cidade": "",
-    "estado": "Québec",
-    "endereco": ", Québec",
-    "pais": "ca",
-    "coord": "46.8138783,-71.2079809"
-  },
-  {
-    "nome": "Keylla Rodrigues",
-    "time": 12,
-    "cidade": "",
-    "estado": "Langley, BC",
-    "endereco": ", Langley, BC",
-    "pais": "ca",
-    "coord": "49.1041779,-122.6603519"
-  },
-  {
-    "nome": "Anna Moura Sobral",
-    "time": 12,
-    "cidade": "",
-    "estado": "Copenhagen",
-    "endereco": ", Copenhagen",
-    "pais": "dk",
-    "coord": "55.6760968,12.5683371"
-  },
-  {
-    "nome": "Hugo Bertolotti",
-    "time": 12,
-    "cidade": "",
-    "estado": "Midleton",
-    "endereco": ", Midleton",
-    "pais": "ie",
-    "coord": "51.9143321,-8.1726276"
-  },
-  {
     "nome": "Rafael Tivane",
     "time": 7,
     "cidade": "",
@@ -646,42 +601,6 @@
     "endereco": ", Maputo",
     "pais": "mz",
     "coord": "-25.969248,32.5731746"
-  },
-  {
-    "nome": "Gabriela Cantarini",
-    "time": 10,
-    "cidade": "",
-    "estado": "Bombarral, Leiria",
-    "endereco": ", Bombarral, Leiria",
-    "pais": "pt",
-    "coord": "39.2682645,-9.158068199999999"
-  },
-  {
-    "nome": "Victor Teodoro",
-    "time": 11,
-    "cidade": "",
-    "estado": "Porto",
-    "endereco": ", Porto",
-    "pais": "pt",
-    "coord": "41.1579438,-8.629105299999999"
-  },
-  {
-    "nome": "Rodrigo Cerqueira",
-    "time": 13,
-    "cidade": "",
-    "estado": "Viseu",
-    "endereco": ", Viseu",
-    "pais": "pt",
-    "coord": "40.6565861,-7.9124712"
-  },
-  {
-    "nome": "Eduardo Gerbelli",
-    "time": 11,
-    "cidade": "",
-    "estado": "Londres",
-    "endereco": ", Londres",
-    "pais": "uk",
-    "coord": "51.5072178,-0.1275862"
   },
   {
     "nome": "Adriano Cesar",
@@ -762,7 +681,7 @@
     "estado": "RS",
     "endereco": "Santa Rosa, RS",
     "pais": "br",
-    "coord": "-27.8700347,-54.4797042"
+    "coord": "-27.8709283,-54.4833028"
   },
   {
     "nome": "Gustavo Brasil",
@@ -780,7 +699,7 @@
     "estado": "RJ",
     "endereco": "Campos, RJ",
     "pais": "br",
-    "coord": "-21.7623859,-41.3186913"
+    "coord": "-21.7614561,-41.3167841"
   },
   {
     "nome": "Janderson Campêlo",
@@ -897,7 +816,7 @@
     "estado": "SP",
     "endereco": "Brotas, SP",
     "pais": "br",
-    "coord": "-22.2807913,-48.1255491"
+    "coord": "-22.2862718,-48.1254401"
   },
   {
     "nome": "Danilo Chaves",
@@ -1089,6 +1008,24 @@
     "coord": "-20.3441313,-46.8507396"
   },
   {
+    "nome": "Tiago Chacon",
+    "time": 10,
+    "cidade": "",
+    "estado": "Québec",
+    "endereco": ", Québec",
+    "pais": "ca",
+    "coord": "46.8138783,-71.2079809"
+  },
+  {
+    "nome": "Gabriela Cantarini",
+    "time": 10,
+    "cidade": "",
+    "estado": "Bombarral, Leiria",
+    "endereco": ", Bombarral, Leiria",
+    "pais": "pt",
+    "coord": "39.2682645,-9.158068199999999"
+  },
+  {
     "nome": "Alexandre Rocha",
     "time": 10,
     "cidade": "Rio de Janeiro",
@@ -1242,7 +1179,7 @@
     "coord": "-23.4962199,-46.3565234"
   },
   {
-    "nome": "Jorge Thiago",
+    "nome": "Jorge Thiago ",
     "time": 10,
     "cidade": "São Pedro da Aldeia",
     "estado": "RJ",
@@ -1287,7 +1224,7 @@
     "coord": "-8.0577401,-34.8829629"
   },
   {
-    "nome": "Michel Wene",
+    "nome": "Michel Wene ",
     "time": 10,
     "cidade": "Quatá",
     "estado": "SP",
@@ -1395,7 +1332,7 @@
     "coord": "-12.9777334,-38.501648"
   },
   {
-    "nome": "Valério Dias",
+    "nome": "Valério Dias ",
     "time": 10,
     "cidade": "Nilópolis",
     "estado": "RJ",
@@ -1420,6 +1357,24 @@
     "endereco": "Niterói, RJ",
     "pais": "br",
     "coord": "-22.8807073,-43.1013526"
+  },
+  {
+    "nome": "Victor Teodoro",
+    "time": 11,
+    "cidade": "",
+    "estado": "Porto",
+    "endereco": ", Porto",
+    "pais": "pt",
+    "coord": "41.1579438,-8.629105299999999"
+  },
+  {
+    "nome": "Eduardo Gerbelli",
+    "time": 11,
+    "cidade": "",
+    "estado": "Londres",
+    "endereco": ", Londres",
+    "pais": "uk",
+    "coord": "51.5072178,-0.1275862"
   },
   {
     "nome": "Alan Angeli",
@@ -1626,7 +1581,7 @@
     "estado": "SP",
     "endereco": "Osasco, SP",
     "pais": "br",
-    "coord": "-23.533385,-46.7914568"
+    "coord": "-23.5326334,-46.7915243"
   },
   {
     "nome": "Gustavo Marquizeppe",
@@ -1919,7 +1874,7 @@
   {
     "nome": "Wesley Marcelino",
     "time": 11,
-    "cidade": "Juiz de Fora",
+    "cidade": "Juiz de Fora ",
     "estado": "MG",
     "endereco": "Juiz de Fora , MG",
     "pais": "br",
@@ -1942,6 +1897,33 @@
     "endereco": "Arroio do Sal, RS",
     "pais": "br",
     "coord": "-29.5501089,-49.8872992"
+  },
+  {
+    "nome": "Keylla Rodrigues",
+    "time": 12,
+    "cidade": "",
+    "estado": "Langley, BC",
+    "endereco": ", Langley, BC",
+    "pais": "ca",
+    "coord": "49.1041779,-122.6603519"
+  },
+  {
+    "nome": "Anna Moura Sobral",
+    "time": 12,
+    "cidade": "",
+    "estado": "Copenhagen",
+    "endereco": ", Copenhagen",
+    "pais": "dk",
+    "coord": "55.6760968,12.5683371"
+  },
+  {
+    "nome": "Hugo Bertolotti",
+    "time": 12,
+    "cidade": "",
+    "estado": "Midleton",
+    "endereco": ", Midleton",
+    "pais": "ie",
+    "coord": "51.9143321,-8.1726276"
   },
   {
     "nome": "Alex Corrêa Sales",
@@ -2034,7 +2016,7 @@
     "coord": "-27.157469,-48.5757024"
   },
   {
-    "nome": "Daniel de Carvalho",
+    "nome": "Daniel de Carvalho ",
     "time": 12,
     "cidade": "Guanhães",
     "estado": "MG",
@@ -2162,11 +2144,11 @@
   {
     "nome": "Gilvan Medeiros de Castro",
     "time": 12,
-    "cidade": "Asa Branca",
+    "cidade": " Mossoro",
     "estado": "RN",
-    "endereco": "Asa Branca, RN",
+    "endereco": " Mossoro, RN",
     "pais": "br",
-    "coord": "-5.291858,-37.5394143"
+    "coord": "-5.1919109,-37.3423886"
   },
   {
     "nome": "Glenda Esteves",
@@ -2288,7 +2270,7 @@
   {
     "nome": "Matheus Ferreira",
     "time": 12,
-    "cidade": "Juiz de Fora",
+    "cidade": "Juiz de Fora ",
     "estado": "MG",
     "endereco": "Juiz de Fora , MG",
     "pais": "br",
@@ -2351,7 +2333,7 @@
   {
     "nome": "Pedro Alexsander",
     "time": 12,
-    "cidade": "Juiz de Fora",
+    "cidade": "Juiz de Fora ",
     "estado": "MG",
     "endereco": "Juiz de Fora , MG",
     "pais": "br",
@@ -2364,7 +2346,7 @@
     "estado": "MG",
     "endereco": "Itapecerica, MG",
     "pais": "br",
-    "coord": "-20.4719847,-45.1241993"
+    "coord": "-20.4719298,-45.124195"
   },
   {
     "nome": "Rhaná Teixeira",
@@ -2463,34 +2445,7 @@
     "estado": "SP",
     "endereco": "Osasco, SP",
     "pais": "br",
-    "coord": "-23.533385,-46.7914568"
-  },
-  {
-    "nome": "Fernando Pereira Costa",
-    "time": 13,
-    "cidade": "São José do Egito",
-    "estado": "PE",
-    "endereco": "São José do Egito, PE",
-    "pais": "br",
-    "coord": "-7.4721749,-37.2761721"
-  },
-  {
-    "nome": "Adriano Andrade Santos",
-    "time": 13,
-    "cidade": "Fortaleza",
-    "estado": "CE",
-    "endereco": "Fortaleza, CE",
-    "pais": "br",
-    "coord": "-3.7327203,-38.5270134"
-  },
-  {
-    "nome": "Tatiane Patriota",
-    "time": 13,
-    "cidade": "Araruama",
-    "estado": "RJ",
-    "endereco": "Araruama, RJ",
-    "pais": "br",
-    "coord": "-22.8728058,-42.3413939"
+    "coord": "-23.5326334,-46.7915243"
   },
   {
     "nome": "André Baccili",
@@ -2502,58 +2457,13 @@
     "coord": "-9.6660417,-35.7352167"
   },
   {
-    "nome": "Natanael Chagas",
+    "nome": "Brenda Assunção de Oliveira",
     "time": 13,
-    "cidade": "Fortaleza",
-    "estado": "CE",
-    "endereco": "Fortaleza, CE",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "endereco": "Rio de Janeiro, RJ",
     "pais": "br",
-    "coord": "-3.7327203,-38.5270134"
-  },
-  {
-    "nome": "Lucas Rodrigues Fernandes da Silva",
-    "time": 13,
-    "cidade": "Juazeiro do Norte",
-    "estado": "CE",
-    "endereco": "Juazeiro do Norte, CE",
-    "pais": "br",
-    "coord": "-7.229109699999999,-39.3124589"
-  },
-  {
-    "nome": "Oscar Lima Oliveira Junior",
-    "time": 13,
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "endereco": "São Paulo, SP",
-    "pais": "br",
-    "coord": "-23.5557714,-46.6395571"
-  },
-  {
-    "nome": "Flávia Venturini",
-    "time": 13,
-    "cidade": "Vitória",
-    "estado": "ES",
-    "endereco": "Vitória, ES",
-    "pais": "br",
-    "coord": "-20.3196644,-40.3384748"
-  },
-  {
-    "nome": "Mateus Abdallah",
-    "time": 13,
-    "cidade": "Brasília",
-    "estado": "DF",
-    "endereco": "Brasília, DF",
-    "pais": "br",
-    "coord": "-15.7975154,-47.89188739999999"
-  },
-  {
-    "nome": "Fabio Donizetti",
-    "time": 13,
-    "cidade": "São José do Rio Preto",
-    "estado": "SP",
-    "endereco": "São José do Rio Preto, SP",
-    "pais": "br",
-    "coord": "-20.8126993,-49.37653719999999"
+    "coord": "-22.9068467,-43.1728965"
   },
   {
     "nome": "Camila Patrícia da Silva Bento",
@@ -2565,159 +2475,6 @@
     "coord": "-23.5557714,-46.6395571"
   },
   {
-    "nome": "Guilherme Santos Oliveira",
-    "time": 13,
-    "cidade": "Cicero Dantas",
-    "estado": "BA",
-    "endereco": "Cicero Dantas, BA",
-    "pais": "br",
-    "coord": "-10.5936112,-38.3852394"
-  },
-  {
-    "nome": "Glayson Brendown Santos Silva",
-    "time": 13,
-    "cidade": "Campina Grande",
-    "estado": "PB",
-    "endereco": "Campina Grande, PB",
-    "pais": "br",
-    "coord": "-7.2206167,-35.8888328"
-  },
-  {
-    "nome": "Murilo Cavalcanti",
-    "time": 13,
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "endereco": "São Paulo, SP",
-    "pais": "br",
-    "coord": "-23.5557714,-46.6395571"
-  },
-  {
-    "nome": "Jonas Nunes de Oliveira",
-    "time": 13,
-    "cidade": "Arraial do Cabo",
-    "estado": "RJ",
-    "endereco": "Arraial do Cabo, RJ",
-    "pais": "br",
-    "coord": "-22.9667613,-42.0277716"
-  },
-  {
-    "nome": "Vitor Borgatte",
-    "time": 13,
-    "cidade": "Rio de Janeiro",
-    "estado": "RJ",
-    "endereco": "Rio de Janeiro, RJ",
-    "pais": "br",
-    "coord": "-22.9068467,-43.1728965"
-  },
-  {
-    "nome": "Laíssa Saraiva da Cunha",
-    "time": 13,
-    "cidade": "Rio de Janeiro",
-    "estado": "RJ",
-    "endereco": "Rio de Janeiro, RJ",
-    "pais": "br",
-    "coord": "-22.9068467,-43.1728965"
-  },
-  {
-    "nome": "Lucelia Alves Ribeiro",
-    "time": 13,
-    "cidade": "São José",
-    "estado": "SC",
-    "endereco": "São José, SC",
-    "pais": "br",
-    "coord": "-27.5950396,-48.61376809999999"
-  },
-  {
-    "nome": "Mariana Muniz",
-    "time": 13,
-    "cidade": "São José dos Campos",
-    "estado": "SP",
-    "endereco": "São José dos Campos, SP",
-    "pais": "br",
-    "coord": "-23.2198396,-45.8915658"
-  },
-  {
-    "nome": "Neto Vasconcellos",
-    "time": 13,
-    "cidade": "Curitiba",
-    "estado": "PR",
-    "endereco": "Curitiba, PR",
-    "pais": "br",
-    "coord": "-25.4372382,-49.2699727"
-  },
-  {
-    "nome": "Luís Eduardo Moura Santos",
-    "time": 13,
-    "cidade": "Fortaleza",
-    "estado": "CE",
-    "endereco": "Fortaleza, CE",
-    "pais": "br",
-    "coord": "-3.7327203,-38.5270134"
-  },
-  {
-    "nome": "Yuri Vieira dos Santos",
-    "time": 13,
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "endereco": "São Paulo, SP",
-    "pais": "br",
-    "coord": "-23.5557714,-46.6395571"
-  },
-  {
-    "nome": "Leonardo Forgiarini Guedes",
-    "time": 13,
-    "cidade": "Porto Alegre",
-    "estado": "RS",
-    "endereco": "Porto Alegre, RS",
-    "pais": "br",
-    "coord": "-30.0368176,-51.2089887"
-  },
-  {
-    "nome": "Rodrigo Alves",
-    "time": 13,
-    "cidade": "Rio de Janeiro",
-    "estado": "RJ",
-    "endereco": "Rio de Janeiro, RJ",
-    "pais": "br",
-    "coord": "-22.9068467,-43.1728965"
-  },
-  {
-    "nome": "Thaís Rodeiro",
-    "time": 13,
-    "cidade": "Ouro Preto",
-    "estado": "MG",
-    "endereco": "Ouro Preto, MG",
-    "pais": "br",
-    "coord": "-20.402211,-43.5105574"
-  },
-  {
-    "nome": "Maria Cláudia Pio Ramos",
-    "time": 13,
-    "cidade": "Alfenas",
-    "estado": "MG",
-    "endereco": "Alfenas, MG",
-    "pais": "br",
-    "coord": "-21.4245173,-45.9470205"
-  },
-  {
-    "nome": "Samir Cunha",
-    "time": 13,
-    "cidade": "Porto Alegre",
-    "estado": "RS",
-    "endereco": "Porto Alegre, RS",
-    "pais": "br",
-    "coord": "-30.0368176,-51.2089887"
-  },
-  {
-    "nome": "Roberta Amaro",
-    "time": 13,
-    "cidade": "Rio de Janeiro",
-    "estado": "RJ",
-    "endereco": "Rio de Janeiro, RJ",
-    "pais": "br",
-    "coord": "-22.9068467,-43.1728965"
-  },
-  {
     "nome": "Cássio vinicius alves de carvalho",
     "time": 13,
     "cidade": "Contagem",
@@ -2725,15 +2482,6 @@
     "endereco": "Contagem, MG",
     "pais": "br",
     "coord": "-19.9384589,-44.0518344"
-  },
-  {
-    "nome": "Jailson Souza dos Santos",
-    "time": 13,
-    "cidade": "Gravatá",
-    "estado": "PE",
-    "endereco": "Gravatá, PE",
-    "pais": "br",
-    "coord": "-8.204659,-35.5706307"
   },
   {
     "nome": "David Felix",
@@ -2745,6 +2493,258 @@
     "coord": "-22.9068467,-43.1728965"
   },
   {
+    "nome": "Fabio Donizetti",
+    "time": 13,
+    "cidade": "São José do Rio Preto",
+    "estado": "SP",
+    "endereco": "São José do Rio Preto, SP",
+    "pais": "br",
+    "coord": "-20.8126993,-49.37653719999999"
+  },
+  {
+    "nome": "Fernando Pereira Costa",
+    "time": 13,
+    "cidade": "São José do Egito",
+    "estado": "PE",
+    "endereco": "São José do Egito, PE",
+    "pais": "br",
+    "coord": "-7.4721749,-37.2761721"
+  },
+  {
+    "nome": "Flávia Venturini",
+    "time": 13,
+    "cidade": "Vitória",
+    "estado": "ES",
+    "endereco": "Vitória, ES",
+    "pais": "br",
+    "coord": "-20.3196644,-40.3384748"
+  },
+  {
+    "nome": "Glayson Brendown Santos Silva",
+    "time": 13,
+    "cidade": "Campina Grande",
+    "estado": "PB",
+    "endereco": "Campina Grande, PB",
+    "pais": "br",
+    "coord": "-7.2206167,-35.8888328"
+  },
+  {
+    "nome": "Guilherme Santos Oliveira",
+    "time": 13,
+    "cidade": "Cicero Dantas",
+    "estado": "BA",
+    "endereco": "Cicero Dantas, BA",
+    "pais": "br",
+    "coord": "-10.5936112,-38.3852394"
+  },
+  {
+    "nome": "Jailson Souza dos Santos",
+    "time": 13,
+    "cidade": "Gravatá",
+    "estado": "PE",
+    "endereco": "Gravatá, PE",
+    "pais": "br",
+    "coord": "-8.204659,-35.5706307"
+  },
+  {
+    "nome": "João Vitor Esposte Campos",
+    "time": 13,
+    "cidade": "Bom Jesus do Norte",
+    "estado": "ES",
+    "endereco": "Bom Jesus do Norte, ES",
+    "pais": "br",
+    "coord": "-21.1276729,-41.6742862"
+  },
+  {
+    "nome": "Jonas Nunes de Oliveira",
+    "time": 13,
+    "cidade": "Arraial do Cabo",
+    "estado": "RJ",
+    "endereco": "Arraial do Cabo, RJ",
+    "pais": "br",
+    "coord": "-22.9667613,-42.0277716"
+  },
+  {
+    "nome": "Laíssa Saraiva da Cunha",
+    "time": 13,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "endereco": "Rio de Janeiro, RJ",
+    "pais": "br",
+    "coord": "-22.9068467,-43.1728965"
+  },
+  {
+    "nome": "Leonardo Forgiarini Guedes",
+    "time": 13,
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "endereco": "Porto Alegre, RS",
+    "pais": "br",
+    "coord": "-30.0368176,-51.2089887"
+  },
+  {
+    "nome": "Lucas Rodrigues Fernandes da Silva",
+    "time": 13,
+    "cidade": "Juazeiro do Norte",
+    "estado": "CE",
+    "endereco": "Juazeiro do Norte, CE",
+    "pais": "br",
+    "coord": "-7.224205400000001,-39.3130162"
+  },
+  {
+    "nome": "Lucelia Alves Ribeiro",
+    "time": 13,
+    "cidade": "São José",
+    "estado": "SC",
+    "endereco": "São José, SC",
+    "pais": "br",
+    "coord": "-27.5950396,-48.61376809999999"
+  },
+  {
+    "nome": "Luís Eduardo Moura Santos",
+    "time": 13,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "endereco": "Fortaleza, CE",
+    "pais": "br",
+    "coord": "-3.7327203,-38.5270134"
+  },
+  {
+    "nome": "Marcos Capiberibe",
+    "time": 13,
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "endereco": "João Pessoa, PB",
+    "pais": "br",
+    "coord": "-7.118835199999999,-34.8814339"
+  },
+  {
+    "nome": "Maria Cláudia Pio Ramos",
+    "time": 13,
+    "cidade": "Alfenas",
+    "estado": "MG",
+    "endereco": "Alfenas, MG",
+    "pais": "br",
+    "coord": "-21.4245173,-45.9470205"
+  },
+  {
+    "nome": "Mariana Muniz",
+    "time": 13,
+    "cidade": "São José dos Campos",
+    "estado": "SP",
+    "endereco": "São José dos Campos, SP",
+    "pais": "br",
+    "coord": "-23.2198396,-45.8915658"
+  },
+  {
+    "nome": "Mateus Abdallah",
+    "time": 13,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "Brasília, DF",
+    "pais": "br",
+    "coord": "-15.7975154,-47.89188739999999"
+  },
+  {
+    "nome": "Murilo Cavalcanti",
+    "time": 13,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Natanael Chagas",
+    "time": 13,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "endereco": "Fortaleza, CE",
+    "pais": "br",
+    "coord": "-3.7327203,-38.5270134"
+  },
+  {
+    "nome": "Oscar Lima Oliveira Junior",
+    "time": 13,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Rafael Lasserre",
+    "time": 13,
+    "cidade": "Salvador",
+    "estado": "BA",
+    "endereco": "Salvador, BA",
+    "pais": "br",
+    "coord": "-12.9777334,-38.501648"
+  },
+  {
+    "nome": "Rafaella Ferreira",
+    "time": 13,
+    "cidade": "",
+    "estado": "Bruxelas",
+    "endereco": ", Bruxelas",
+    "pais": "be",
+    "coord": "50.8476424,4.3571696"
+  },
+  {
+    "nome": "Roberta Amaro",
+    "time": 13,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "endereco": "Rio de Janeiro, RJ",
+    "pais": "br",
+    "coord": "-22.9068467,-43.1728965"
+  },
+  {
+    "nome": "Rodrigo Alves",
+    "time": 13,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "endereco": "Rio de Janeiro, RJ",
+    "pais": "br",
+    "coord": "-22.9068467,-43.1728965"
+  },
+  {
+    "nome": "Rodrigo Cerqueira",
+    "time": 13,
+    "cidade": "",
+    "estado": "Viseu",
+    "endereco": ", Viseu",
+    "pais": "pt",
+    "coord": "40.6565861,-7.9124712"
+  },
+  {
+    "nome": "Samir Cunha",
+    "time": 13,
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "endereco": "Porto Alegre, RS",
+    "pais": "br",
+    "coord": "-30.0368176,-51.2089887"
+  },
+  {
+    "nome": "Tatiane Patriota",
+    "time": 13,
+    "cidade": "Araruama",
+    "estado": "RJ",
+    "endereco": "Araruama, RJ",
+    "pais": "br",
+    "coord": "-22.8728058,-42.3413939"
+  },
+  {
+    "nome": "Thaís Rodeiro",
+    "time": 13,
+    "cidade": "Ouro Preto",
+    "estado": "MG",
+    "endereco": "Ouro Preto, MG",
+    "pais": "br",
+    "coord": "-20.402211,-43.5105574"
+  },
+  {
     "nome": "Thiago Tassinari",
     "time": 13,
     "cidade": "São Luís",
@@ -2754,15 +2754,6 @@
     "coord": "-2.5306721,-44.2988947"
   },
   {
-    "nome": "Thiago Oliveira Barbosa",
-    "time": 13,
-    "cidade": "Belo Horizonte",
-    "estado": "MG",
-    "endereco": "Belo Horizonte, MG",
-    "pais": "br",
-    "coord": "-19.919052,-43.9386685"
-  },
-  {
     "nome": "Victor Assis",
     "time": 13,
     "cidade": "Niterói",
@@ -2770,5 +2761,563 @@
     "endereco": "Niterói, RJ",
     "pais": "br",
     "coord": "-22.8807073,-43.1013526"
+  },
+  {
+    "nome": "Vitor Borgatte",
+    "time": 13,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "endereco": "Rio de Janeiro, RJ",
+    "pais": "br",
+    "coord": "-22.9068467,-43.1728965"
+  },
+  {
+    "nome": "Yuri Vieira dos Santos",
+    "time": 13,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Bruno Almeida",
+    "time": 14,
+    "cidade": "Natal",
+    "estado": "RN",
+    "endereco": "Natal, RN",
+    "pais": "br",
+    "coord": "-5.7841695,-35.1999708"
+  },
+  {
+    "nome": "Cesar Santos",
+    "time": 14,
+    "cidade": "Carmo da Mata",
+    "estado": "MG",
+    "endereco": "Carmo da Mata, MG",
+    "pais": "br",
+    "coord": "-20.5578897,-44.8699338"
+  },
+  {
+    "nome": "Cristiane Reis",
+    "time": 14,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Daniel Guinter",
+    "time": 14,
+    "cidade": "Navegantes",
+    "estado": "SC",
+    "endereco": "Navegantes, SC",
+    "pais": "br",
+    "coord": "-26.8954069,-48.6569206"
+  },
+  {
+    "nome": "Elvis Bezerra Viana",
+    "time": 14,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Fabiano Bellam",
+    "time": 14,
+    "cidade": "Taquaritinga",
+    "estado": "SP",
+    "endereco": "Taquaritinga, SP",
+    "pais": "br",
+    "coord": "-21.4011199,-48.5086726"
+  },
+  {
+    "nome": "Felipe Kennedy",
+    "time": 14,
+    "cidade": "Caicó",
+    "estado": "RN",
+    "endereco": "Caicó, RN",
+    "pais": "br",
+    "coord": "-6.459389499999999,-37.0972383"
+  },
+  {
+    "nome": "Felipe Moreira",
+    "time": 14,
+    "cidade": "Tailândia",
+    "estado": "PA",
+    "endereco": "Tailândia, PA",
+    "pais": "br",
+    "coord": "-2.9381477,-48.951083"
+  },
+  {
+    "nome": "Fellipe Lima",
+    "time": 14,
+    "cidade": "Sobral",
+    "estado": "CE",
+    "endereco": "Sobral, CE",
+    "pais": "br",
+    "coord": "-3.6844057,-40.3561823"
+  },
+  {
+    "nome": "Fernando dos Santos Azevedo",
+    "time": 14,
+    "cidade": "Santos",
+    "estado": "SP",
+    "endereco": "Santos, SP",
+    "pais": "br",
+    "coord": "-23.9592201,-46.3317787"
+  },
+  {
+    "nome": "Flavia Silva",
+    "time": 14,
+    "cidade": "Contagem",
+    "estado": "MG",
+    "endereco": "Contagem, MG",
+    "pais": "br",
+    "coord": "-19.9384589,-44.0518344"
+  },
+  {
+    "nome": "Giovanni Della Dea",
+    "time": 14,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Guilherme Mendonça Gonçalves",
+    "time": 14,
+    "cidade": "Formiga",
+    "estado": "MG",
+    "endereco": "Formiga, MG",
+    "pais": "br",
+    "coord": "-20.4649336,-45.42628"
+  },
+  {
+    "nome": "Gustavo Musse",
+    "time": 14,
+    "cidade": "Uberaba",
+    "estado": "MG",
+    "endereco": "Uberaba, MG",
+    "pais": "br",
+    "coord": "-19.7460372,-47.9339936"
+  },
+  {
+    "nome": "Gustavo Oliveira",
+    "time": 14,
+    "cidade": "Mauá",
+    "estado": "SP",
+    "endereco": "Mauá, SP",
+    "pais": "br",
+    "coord": "-23.666558,-46.4599145"
+  },
+  {
+    "nome": "Hudson Retonde",
+    "time": 14,
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "endereco": "Belo Horizonte, MG",
+    "pais": "br",
+    "coord": "-19.919052,-43.9386685"
+  },
+  {
+    "nome": "Jéssica Funahashi",
+    "time": 14,
+    "cidade": "Bastos",
+    "estado": "SP",
+    "endereco": "Bastos, SP",
+    "pais": "br",
+    "coord": "-21.9226146,-50.73193699999999"
+  },
+  {
+    "nome": "João Paulo Aquino Ferreira",
+    "time": 14,
+    "cidade": "Ponta Porã",
+    "estado": "MS",
+    "endereco": "Ponta Porã, MS",
+    "pais": "br",
+    "coord": "-22.5373117,-55.72824989999999"
+  },
+  {
+    "nome": "Jomar França",
+    "time": 14,
+    "cidade": "Sao Goncalo",
+    "estado": "RJ",
+    "endereco": "Sao Goncalo, RJ",
+    "pais": "br",
+    "coord": "-22.8233781,-43.0462495"
+  },
+  {
+    "nome": "Jonathan Gomes",
+    "time": 14,
+    "cidade": "Caruaru",
+    "estado": "PS",
+    "endereco": "Caruaru, PS",
+    "pais": "br",
+    "coord": "-8.275373499999999,-35.9735057"
+  },
+  {
+    "nome": "Leonardo Pinheiro Ribeiro",
+    "time": 14,
+    "cidade": "Niterói",
+    "estado": "RJ",
+    "endereco": "Niterói, RJ",
+    "pais": "br",
+    "coord": "-22.8807073,-43.1013526"
+  },
+  {
+    "nome": "Lucas Cordeiro",
+    "time": 14,
+    "cidade": "Nova Lima",
+    "estado": "MG",
+    "endereco": "Nova Lima, MG",
+    "pais": "br",
+    "coord": "-19.9849058,-43.8469634"
+  },
+  {
+    "nome": "Lucas Cota",
+    "time": 14,
+    "cidade": "Itaboraí",
+    "estado": "RJ",
+    "endereco": "Itaboraí, RJ",
+    "pais": "br",
+    "coord": "-22.7472462,-42.8584458"
+  },
+  {
+    "nome": "Lucas Ramires",
+    "time": 14,
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "endereco": "Guarulhos, SP",
+    "pais": "br",
+    "coord": "-23.4596858,-46.5328559"
+  },
+  {
+    "nome": "Marcelo J Silva",
+    "time": 14,
+    "cidade": "Cianorte",
+    "estado": "PR",
+    "endereco": "Cianorte, PR",
+    "pais": "br",
+    "coord": "-23.6569437,-52.6065512"
+  },
+  {
+    "nome": "Marcos Cappelli",
+    "time": 14,
+    "cidade": "Marabá",
+    "estado": "PA",
+    "endereco": "Marabá, PA",
+    "pais": "br",
+    "coord": "-5.3671244,-49.1230973"
+  },
+  {
+    "nome": "Mario Alves",
+    "time": 14,
+    "cidade": "Araraquara",
+    "estado": "SP",
+    "endereco": "Araraquara, SP",
+    "pais": "br",
+    "coord": "-21.7790843,-48.1792643"
+  },
+  {
+    "nome": "Mateus Zucato Nunes",
+    "time": 14,
+    "cidade": "São José do Rio Preto",
+    "estado": "SP",
+    "endereco": "São José do Rio Preto, SP",
+    "pais": "br",
+    "coord": "-20.8126993,-49.37653719999999"
+  },
+  {
+    "nome": "Pedro Salomão",
+    "time": 14,
+    "cidade": "Brasilia",
+    "estado": "DF",
+    "endereco": "Brasilia, DF",
+    "pais": "br",
+    "coord": "-15.7975154,-47.89188739999999"
+  },
+  {
+    "nome": "Rafael Freitas",
+    "time": 14,
+    "cidade": "Brasilia",
+    "estado": "DF",
+    "endereco": "Brasilia, DF",
+    "pais": "br",
+    "coord": "-15.7975154,-47.89188739999999"
+  },
+  {
+    "nome": "Rafael Lima de Morais",
+    "time": 14,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "Brasília, DF",
+    "pais": "br",
+    "coord": "-15.7975154,-47.89188739999999"
+  },
+  {
+    "nome": "Renato Anjo",
+    "time": 14,
+    "cidade": "Sumaré",
+    "estado": "SP",
+    "endereco": "Sumaré, SP",
+    "pais": "br",
+    "coord": "-22.8244116,-47.2707792"
+  },
+  {
+    "nome": "Rodrigo Medeiros",
+    "time": 14,
+    "cidade": "Brasilia",
+    "estado": "DF",
+    "endereco": "Brasilia, DF",
+    "pais": "br",
+    "coord": "-15.7975154,-47.89188739999999"
+  },
+  {
+    "nome": "Rodrigo Oliveira",
+    "time": 14,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Rosane Braga",
+    "time": 14,
+    "cidade": "São Gonçalo",
+    "estado": "RJ",
+    "endereco": "São Gonçalo, RJ",
+    "pais": "br",
+    "coord": "-22.8233781,-43.0462495"
+  },
+  {
+    "nome": "Samuel Tedeschi",
+    "time": 14,
+    "cidade": "Santa Maria de Campos dos Goytacazes",
+    "estado": "RJ",
+    "endereco": "Santa Maria de Campos dos Goytacazes, RJ",
+    "pais": "br",
+    "coord": "-21.2672418,-41.4490709"
+  },
+  {
+    "nome": "Sandro Henrique",
+    "time": 14,
+    "cidade": "Palhoça",
+    "estado": "SC",
+    "endereco": "Palhoça, SC",
+    "pais": "br",
+    "coord": "-27.6411215,-48.6789533"
+  },
+  {
+    "nome": "Thiago Gomes Araújo",
+    "time": 14,
+    "cidade": "Americana",
+    "estado": "SP",
+    "endereco": "Americana, SP",
+    "pais": "br",
+    "coord": "-22.7380303,-47.3340223"
+  },
+  {
+    "nome": "Thiago Oliveira Barbosa",
+    "time": 14,
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "endereco": "Belo Horizonte, MG",
+    "pais": "br",
+    "coord": "-19.919052,-43.9386685"
+  },
+  {
+    "nome": "Valéria Pedroso",
+    "time": 14,
+    "cidade": "Campinas",
+    "estado": "SP",
+    "endereco": "Campinas, SP",
+    "pais": "br",
+    "coord": "-22.9050824,-47.0613327"
+  },
+  {
+    "nome": "Wiliam Joaquim Meurer",
+    "time": 14,
+    "cidade": "Joinville",
+    "estado": "SC",
+    "endereco": "Joinville, SC",
+    "pais": "br",
+    "coord": "-26.3043758,-48.84637439999999"
+  },
+  {
+    "nome": "Yuri Cruz",
+    "time": 14,
+    "cidade": "Maceió",
+    "estado": "AL",
+    "endereco": "Maceió, AL",
+    "pais": "br",
+    "coord": "-9.6660417,-35.7352167"
+  },
+  {
+    "nome": "Ana Carolina Bizinoto",
+    "time": 15,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Anderson Benício",
+    "time": 15,
+    "cidade": "Natal",
+    "estado": "RN",
+    "endereco": "Natal, RN",
+    "pais": "br",
+    "coord": "-5.7841695,-35.1999708"
+  },
+  {
+    "nome": "Carolline Martins",
+    "time": 15,
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "Brasília, DF",
+    "pais": "br",
+    "coord": "-15.7975154,-47.89188739999999"
+  },
+  {
+    "nome": "Diego Nunes",
+    "time": 15,
+    "cidade": "São José",
+    "estado": "SC",
+    "endereco": "São José, SC",
+    "pais": "br",
+    "coord": "-27.5950396,-48.61376809999999"
+  },
+  {
+    "nome": "Diogo Rochembach",
+    "time": 15,
+    "cidade": "Ijuí",
+    "estado": "RS",
+    "endereco": "Ijuí, RS",
+    "pais": "br",
+    "coord": "-28.3891409,-53.9220126"
+  },
+  {
+    "nome": "Fabio Guimarães",
+    "time": 15,
+    "cidade": "Cabo Frio",
+    "estado": "RJ",
+    "endereco": "Cabo Frio, RJ",
+    "pais": "br",
+    "coord": "-22.8834591,-42.0252951"
+  },
+  {
+    "nome": "Liana Silibele",
+    "time": 15,
+    "cidade": "São Leopoldo",
+    "estado": "RS",
+    "endereco": "São Leopoldo, RS",
+    "pais": "br",
+    "coord": "-29.76074169999999,-51.1480174"
+  },
+  {
+    "nome": "Marco Aurélio Mendes",
+    "time": 15,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Pedro Rodrigues",
+    "time": 15,
+    "cidade": "Niterói",
+    "estado": "RJ",
+    "endereco": "Niterói, RJ",
+    "pais": "br",
+    "coord": "-22.8807073,-43.1013526"
+  },
+  {
+    "nome": "Wilker Farias",
+    "time": 15,
+    "cidade": "Macapá",
+    "estado": "AP",
+    "endereco": "Macapá, AP",
+    "pais": "br",
+    "coord": "0.04052170000000001,-51.0560957"
+  },
+  {
+    "nome": "Paulo Sergio",
+    "time": 15,
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "endereco": "Guarulhos, SP",
+    "pais": "br",
+    "coord": "-23.4596858,-46.5328559"
+  },
+  {
+    "nome": "Rodrigo Medeiros",
+    "time": 15,
+    "cidade": "Maceió",
+    "estado": "AL",
+    "endereco": "Maceió, AL",
+    "pais": "br",
+    "coord": "-9.6660417,-35.7352167"
+  },
+  {
+    "nome": "Yago Moreira",
+    "time": 15,
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "endereco": "Fortaleza, CE",
+    "pais": "br",
+    "coord": "-3.7327203,-38.5270134"
+  },
+  {
+    "nome": "Natanael Juvenal",
+    "time": 15,
+    "cidade": "Maracanau",
+    "estado": "CE",
+    "endereco": "Maracanau, CE",
+    "pais": "br",
+    "coord": "-3.8682838,-38.6264568"
+  },
+  {
+    "nome": "Silvia Rosa",
+    "time": 15,
+    "cidade": "Praia Grande",
+    "estado": "SP",
+    "endereco": "Praia Grande, SP",
+    "pais": "br",
+    "coord": "-24.0030665,-46.4178533"
+  },
+  {
+    "nome": "Leonardo Mendonça",
+    "time": 15,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "São Paulo, SP",
+    "pais": "br",
+    "coord": "-23.5557714,-46.6395571"
+  },
+  {
+    "nome": "Felipe Mota",
+    "time": 15,
+    "cidade": "",
+    "estado": "Cercal do Alentejo",
+    "endereco": ", Cercal do Alentejo",
+    "pais": "pt",
+    "coord": "37.801417,-8.676551"
+  },
+  {
+    "nome": "Jarbas Somonet",
+    "time": 15,
+    "cidade": "Parobé",
+    "estado": "RS",
+    "endereco": "Parobé, RS",
+    "pais": "br",
+    "coord": "-29.6270225,-50.82901769999999"
   }
-]
+ ]
