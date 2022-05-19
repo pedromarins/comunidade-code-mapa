@@ -24,43 +24,13 @@
 <body>
     <header class="topo">
         <h1 class="logo"><img class="logo-imagem" src="img/ComunidadeCoDe-logo-branco.png" alt=""></h1>
-        <form action="" class="busca">
-            <input type="search" class="busca-texto">
+        <form class="busca" id="busca">
+            <input type="search" class="busca-texto" name="busca-texto">
             <input type="submit" value="Buscar" class="busca-botao">
         </form>
     </header>
     <div id="map"></div>
-    <script>
-        var map = L.map('map').setView([-13.518, -51.372], 3);
 
-        var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-            maxZoom: 18,
-            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
-                'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-            id: 'mapbox/streets-v11',
-            tileSize: 512,
-            zoomOffset: -1
-        }).addTo(map);
-
-        var markers = L.markerClusterGroup();
-
-        fetch("./js/mentorados.json")
-        .then(response => {
-            return response.json();
-        })
-        .then(mentorados => {
-            mentorados.forEach(element => {
-                let coord = element.coord.split(",")
-                markers.addLayer(
-                    L.marker([coord[0], coord[1]]).bindPopup(
-                        `Nome: ${element.nome} <br>
-                        Turma: ${element.turma}`
-                    )
-                )
-            });
-        });
-        
-        map.addLayer(markers);
-    </script>
+    <script src="js/main.js"></script>
 </body>
 </html>
