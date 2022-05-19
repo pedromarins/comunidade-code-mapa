@@ -22,13 +22,9 @@ var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}
 
 var markers = L.markerClusterGroup();
 
+const inputBusca = document.querySelector("[name='busca-texto']")
 
-// Disparado na hora da busca
-const form = document.querySelector("#busca")
-
-form.addEventListener("submit", (event) => {
-    event.preventDefault()
-    
+inputBusca.addEventListener("input", (event) => {   
     // remover todos os layers desenhados no mapa, exceto o próprio mapa
     map.eachLayer(function(layer){
         if(layer._leaflet_id!=26) {
@@ -36,18 +32,16 @@ form.addEventListener("submit", (event) => {
         }
     });
 
-    // capturar o texto inserido no campo de busca
-    const inputBusca = form.querySelector("[name='busca-texto']")
-    const valorBuscado = inputBusca.value
-    inputBusca.value = ""
-
     // filtrar os mentorados
     // percorrer a listaDeMentorados, filtrar os dados e rodar a função criarCamadas
+    let encontrados = []
     listaDeMentorados.forEach( (elemento) => {
-        if(elemento.nome == valorBuscado) {
-            criarCamadas([elemento])
+        if(elemento.nome.toLowerCase().includes(event.target.value.toLowerCase())) {
+            encontrados.push(elemento)
         }
+        console.log(encontrados)
     })
+    criarCamadas(encontrados)
 })
 
 function criarCamadas(mentorados) {
