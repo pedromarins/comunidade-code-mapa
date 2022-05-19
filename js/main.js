@@ -28,15 +28,9 @@ inputBusca.addEventListener("input", (event) => {
     // tratar o valor digitado removendo acentos
     const valorDigitado = event.target.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
 
-    // remover todos os layers desenhados no mapa, exceto o próprio mapa
-    map.eachLayer(function(layer){
-        if(layer._leaflet_id!=26) {
-            map.removeLayer(layer)
-        }
-    });
+    limparMapa()
 
-    // filtrar os mentorados
-    // percorrer a listaDeMentorados, filtrar os dados e rodar a função criarCamadas
+    // percorrer a listaDeMentorados, filtrar os nomes
     let encontrados = []
     listaDeMentorados.forEach( (elemento) => {
         const nomeTratado = elemento.nome.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
@@ -48,6 +42,20 @@ inputBusca.addEventListener("input", (event) => {
     criarCamadas(encontrados)
 })
 
+const selectTime = document.querySelector("[name='busca-time']")
+selectTime.addEventListener("input", (evento) => {
+    limparMapa()
+
+    // percorrer a listaDeMentorados, filtrando pelo time
+    let encontrados = []
+    listaDeMentorados.forEach( (elemento) => {
+        if(elemento.time ==  evento.target.value) {
+            encontrados.push(elemento)
+        }
+    })
+    criarCamadas(encontrados)
+})
+
 function criarCamadas(mentorados) {
     markers = L.markerClusterGroup();
     mentorados.forEach(element => {
@@ -55,9 +63,18 @@ function criarCamadas(mentorados) {
         markers.addLayer(
             L.marker([coord[0], coord[1]]).bindPopup(
                 `Nome: ${element.nome} <br>
-                Turma: ${element.turma}`
+                Turma: ${element.time}`
             )
         )
     });
     map.addLayer(markers);
+}
+
+function limparMapa() {
+    // remove todos os layers desenhados no mapa, exceto o próprio mapa
+    map.eachLayer(function(layer){
+        if(layer._leaflet_id!=26) {
+            map.removeLayer(layer)
+        }
+    });
 }

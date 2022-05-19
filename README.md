@@ -11,4 +11,5 @@
 - [X] Buscar por nome um mentorador no mapa (Sugestão do Daniel Carvalho é limpar o mapa, adicionar layers só de quem aparece na busca pelo json e centralizar o mapa.)
 - [X] Busca dinâmica a partir da digitação
 - [X] Busca com acentos encontrar os resultados
+- [X] Buscar todos do mesmo time
 - [ ] Carregar dinamicamente os dados dos mentorados da planilha oficial

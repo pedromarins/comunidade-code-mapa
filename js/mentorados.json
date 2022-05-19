@@ -1,7 +1,7 @@
 [
   {
     "nome": "Vinicius Tocchio",
-    "turma": 7,
+    "time": 7,
     "cidade": "",
     "estado": "Munich",
     "endereco": ", Munich",
@@ -10,7 +10,7 @@
   },
   {
     "nome": "Rafaella Ferreira",
-    "turma": 13,
+    "time": 13,
     "cidade": "",
     "estado": "Bruxelas",
     "endereco": ", Bruxelas",
@@ -19,7 +19,7 @@
   },
   {
     "nome": "Danilo Miranda",
-    "turma": 0,
+    "time": 0,
     "cidade": "Luziânia",
     "estado": "GO",
     "endereco": "Luziânia, GO",
@@ -28,7 +28,7 @@
   },
   {
     "nome": "Edivan Lima",
-    "turma": 0,
+    "time": 0,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -37,7 +37,7 @@
   },
   {
     "nome": "Marcelo Moraes",
-    "turma": 0,
+    "time": 0,
     "cidade": "Balneário Camboriú",
     "estado": "SC",
     "endereco": "Balneário Camboriú, SC",
@@ -46,7 +46,7 @@
   },
   {
     "nome": "Murilo Carvalho",
-    "turma": 0,
+    "time": 0,
     "cidade": "Ribeirão Pires",
     "estado": "SP",
     "endereco": "Ribeirão Pires, SP",
@@ -55,7 +55,7 @@
   },
   {
     "nome": "Anderson Nunes",
-    "turma": 1,
+    "time": 1,
     "cidade": "Guarujá",
     "estado": "SP",
     "endereco": "Guarujá, SP",
@@ -64,7 +64,7 @@
   },
   {
     "nome": "André Silva",
-    "turma": 1,
+    "time": 1,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -73,7 +73,7 @@
   },
   {
     "nome": "Cicero Monteiro",
-    "turma": 1,
+    "time": 1,
     "cidade": "Barbacena",
     "estado": "MG",
     "endereco": "Barbacena, MG",
@@ -82,7 +82,7 @@
   },
   {
     "nome": "Douglas Moreira",
-    "turma": 1,
+    "time": 1,
     "cidade": "Sapucaia do Sul",
     "estado": "RS",
     "endereco": "Sapucaia do Sul, RS",
@@ -91,7 +91,7 @@
   },
   {
     "nome": "Johnny de Paula",
-    "turma": 1,
+    "time": 1,
     "cidade": "Lençois Paulista",
     "estado": "SP",
     "endereco": "Lençois Paulista, SP",
@@ -100,7 +100,7 @@
   },
   {
     "nome": "Lucas Milare",
-    "turma": 1,
+    "time": 1,
     "cidade": "Tarumã",
     "estado": "SP",
     "endereco": "Tarumã, SP",
@@ -109,7 +109,7 @@
   },
   {
     "nome": "Marcelo Trancozo",
-    "turma": 1,
+    "time": 1,
     "cidade": "Praia Grande",
     "estado": "SP",
     "endereco": "Praia Grande, SP",
@@ -118,7 +118,7 @@
   },
   {
     "nome": "Raphael Casarini",
-    "turma": 1,
+    "time": 1,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -127,7 +127,7 @@
   },
   {
     "nome": "Renan Monteiro",
-    "turma": 1,
+    "time": 1,
     "cidade": "Pouso Alegre",
     "estado": "MG",
     "endereco": "Pouso Alegre, MG",
@@ -136,7 +136,7 @@
   },
   {
     "nome": "Ricardo Mellegari",
-    "turma": 1,
+    "time": 1,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -145,7 +145,7 @@
   },
   {
     "nome": "Wesley Paula",
-    "turma": 1,
+    "time": 1,
     "cidade": "Passos",
     "estado": "MG",
     "endereco": "Passos, MG",
@@ -154,7 +154,7 @@
   },
   {
     "nome": "Bruno Luis",
-    "turma": 2,
+    "time": 2,
     "cidade": "Salvador",
     "estado": "BA",
     "endereco": "Salvador, BA",
@@ -163,7 +163,7 @@
   },
   {
     "nome": "Eduardo Scovino",
-    "turma": 2,
+    "time": 2,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -172,7 +172,7 @@
   },
   {
     "nome": "João Soares",
-    "turma": 2,
+    "time": 2,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -181,7 +181,7 @@
   },
   {
     "nome": "Jonas Mazarini",
-    "turma": 2,
+    "time": 2,
     "cidade": "Vargem Grande do Sul",
     "estado": "SP",
     "endereco": "Vargem Grande do Sul, SP",
@@ -190,7 +190,7 @@
   },
   {
     "nome": "Jordy Alcides",
-    "turma": 2,
+    "time": 2,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -199,7 +199,7 @@
   },
   {
     "nome": "Lucas Pontes",
-    "turma": 2,
+    "time": 2,
     "cidade": "Irati",
     "estado": "PR",
     "endereco": "Irati, PR",
@@ -208,7 +208,7 @@
   },
   {
     "nome": "Mailson Soares",
-    "turma": 2,
+    "time": 2,
     "cidade": "Porto Velho",
     "estado": "RO",
     "endereco": "Porto Velho, RO",
@@ -217,7 +217,7 @@
   },
   {
     "nome": "Marcos Gaiotto",
-    "turma": 2,
+    "time": 2,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -226,7 +226,7 @@
   },
   {
     "nome": "Alan Gil",
-    "turma": 3,
+    "time": 3,
     "cidade": "Manaus",
     "estado": "AM",
     "endereco": "Manaus, AM",
@@ -235,7 +235,7 @@
   },
   {
     "nome": "Amauri Brandão",
-    "turma": 3,
+    "time": 3,
     "cidade": "Porto Velho",
     "estado": "RO",
     "endereco": "Porto Velho, RO",
@@ -244,7 +244,7 @@
   },
   {
     "nome": "Elkeer Guillen",
-    "turma": 3,
+    "time": 3,
     "cidade": "Porto Velho",
     "estado": "RO",
     "endereco": "Porto Velho, RO",
@@ -253,7 +253,7 @@
   },
   {
     "nome": "Fabricio Dourado",
-    "turma": 3,
+    "time": 3,
     "cidade": "Pará de Minas",
     "estado": "MG",
     "endereco": "Pará de Minas, MG",
@@ -262,7 +262,7 @@
   },
   {
     "nome": "Fernando Tavares",
-    "turma": 3,
+    "time": 3,
     "cidade": "Rio Verde",
     "estado": "GO",
     "endereco": "Rio Verde, GO",
@@ -271,7 +271,7 @@
   },
   {
     "nome": "Israel Souza",
-    "turma": 3,
+    "time": 3,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -280,7 +280,7 @@
   },
   {
     "nome": "Livio Cunha",
-    "turma": 3,
+    "time": 3,
     "cidade": "Franca",
     "estado": "SP",
     "endereco": "Franca, SP",
@@ -289,7 +289,7 @@
   },
   {
     "nome": "Lucian Cardoso",
-    "turma": 3,
+    "time": 3,
     "cidade": "Manaus",
     "estado": "AM",
     "endereco": "Manaus, AM",
@@ -298,7 +298,7 @@
   },
   {
     "nome": "Matheus Augusto",
-    "turma": 3,
+    "time": 3,
     "cidade": "Belo Horizonte",
     "estado": "MG",
     "endereco": "Belo Horizonte, MG",
@@ -307,7 +307,7 @@
   },
   {
     "nome": "Nicolas Silva",
-    "turma": 3,
+    "time": 3,
     "cidade": "São Vicente Ferrer",
     "estado": "PE",
     "endereco": "São Vicente Ferrer, PE",
@@ -316,7 +316,7 @@
   },
   {
     "nome": "Wesley jacques",
-    "turma": 3,
+    "time": 3,
     "cidade": "São Leopoldo",
     "estado": "RS",
     "endereco": "São Leopoldo, RS",
@@ -325,7 +325,7 @@
   },
   {
     "nome": "Weslley Campos",
-    "turma": 3,
+    "time": 3,
     "cidade": "São Bernardo do Campo",
     "estado": "SP",
     "endereco": "São Bernardo do Campo, SP",
@@ -334,7 +334,7 @@
   },
   {
     "nome": "Adriano Lira",
-    "turma": 4,
+    "time": 4,
     "cidade": "Santo André",
     "estado": "SP",
     "endereco": "Santo André, SP",
@@ -343,7 +343,7 @@
   },
   {
     "nome": "Bruno Cesar",
-    "turma": 4,
+    "time": 4,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -352,7 +352,7 @@
   },
   {
     "nome": "Edio Gama",
-    "turma": 4,
+    "time": 4,
     "cidade": "Santo André",
     "estado": "SP",
     "endereco": "Santo André, SP",
@@ -361,7 +361,7 @@
   },
   {
     "nome": "Felipe Marcondes",
-    "turma": 4,
+    "time": 4,
     "cidade": "Sorocaba",
     "estado": "SP",
     "endereco": "Sorocaba, SP",
@@ -370,7 +370,7 @@
   },
   {
     "nome": "Lécio Vilela",
-    "turma": 4,
+    "time": 4,
     "cidade": "Uberaba",
     "estado": "MG",
     "endereco": "Uberaba, MG",
@@ -379,7 +379,7 @@
   },
   {
     "nome": "Lucas Amancio",
-    "turma": 4,
+    "time": 4,
     "cidade": "São João de Meriti",
     "estado": "RJ",
     "endereco": "São João de Meriti, RJ",
@@ -388,7 +388,7 @@
   },
   {
     "nome": "Lucas Mol Leite",
-    "turma": 4,
+    "time": 4,
     "cidade": "Vitória",
     "estado": "ES",
     "endereco": "Vitória, ES",
@@ -397,7 +397,7 @@
   },
   {
     "nome": "Mauricio Gomes",
-    "turma": 4,
+    "time": 4,
     "cidade": "Camaragibe",
     "estado": "PE",
     "endereco": "Camaragibe, PE",
@@ -406,7 +406,7 @@
   },
   {
     "nome": "Rogerio Dino",
-    "turma": 4,
+    "time": 4,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -415,7 +415,7 @@
   },
   {
     "nome": "Victor Edward",
-    "turma": 4,
+    "time": 4,
     "cidade": "Curvelo",
     "estado": "MG",
     "endereco": "Curvelo, MG",
@@ -424,7 +424,7 @@
   },
   {
     "nome": "Yan Shinayer",
-    "turma": 4,
+    "time": 4,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -433,7 +433,7 @@
   },
   {
     "nome": "Allen Halsay",
-    "turma": 7,
+    "time": 7,
     "cidade": "Bacabal",
     "estado": "MA",
     "endereco": "Bacabal, MA",
@@ -442,7 +442,7 @@
   },
   {
     "nome": "Daniel Carlos",
-    "turma": 7,
+    "time": 7,
     "cidade": "Sarzedo",
     "estado": "MG",
     "endereco": "Sarzedo, MG",
@@ -451,7 +451,7 @@
   },
   {
     "nome": "Daniel Santos",
-    "turma": 7,
+    "time": 7,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -460,7 +460,7 @@
   },
   {
     "nome": "Diogo Z",
-    "turma": 7,
+    "time": 7,
     "cidade": "Londrina",
     "estado": "PR",
     "endereco": "Londrina, PR",
@@ -469,7 +469,7 @@
   },
   {
     "nome": "Douglas Pangaro",
-    "turma": 7,
+    "time": 7,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -478,7 +478,7 @@
   },
   {
     "nome": "Eduardo Silva",
-    "turma": 7,
+    "time": 7,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -487,7 +487,7 @@
   },
   {
     "nome": "Erick Canali",
-    "turma": 7,
+    "time": 7,
     "cidade": "Porto Alegre",
     "estado": "RS",
     "endereco": "Porto Alegre, RS",
@@ -496,7 +496,7 @@
   },
   {
     "nome": "Fábio Leardini",
-    "turma": 7,
+    "time": 7,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -505,7 +505,7 @@
   },
   {
     "nome": "Fernando Borel",
-    "turma": 7,
+    "time": 7,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -514,7 +514,7 @@
   },
   {
     "nome": "Gedrick Bartz",
-    "turma": 7,
+    "time": 7,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -523,7 +523,7 @@
   },
   {
     "nome": "Ivan Cichinato",
-    "turma": 7,
+    "time": 7,
     "cidade": "São Manuel",
     "estado": "SP",
     "endereco": "São Manuel, SP",
@@ -532,7 +532,7 @@
   },
   {
     "nome": "Jeff Lucas",
-    "turma": 7,
+    "time": 7,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -541,7 +541,7 @@
   },
   {
     "nome": "João Neto",
-    "turma": 7,
+    "time": 7,
     "cidade": "Conchal",
     "estado": "SP",
     "endereco": "Conchal, SP",
@@ -550,7 +550,7 @@
   },
   {
     "nome": "Jonny William",
-    "turma": 7,
+    "time": 7,
     "cidade": "João Pessoa",
     "estado": "PB",
     "endereco": "João Pessoa, PB",
@@ -559,7 +559,7 @@
   },
   {
     "nome": "Leandro Sales",
-    "turma": 7,
+    "time": 7,
     "cidade": "Nova Iguaçu",
     "estado": "RJ",
     "endereco": "Nova Iguaçu, RJ",
@@ -568,7 +568,7 @@
   },
   {
     "nome": "Matheus Besse",
-    "turma": 7,
+    "time": 7,
     "cidade": "Itapira",
     "estado": "SP",
     "endereco": "Itapira, SP",
@@ -577,7 +577,7 @@
   },
   {
     "nome": "Renato Lewkowicz",
-    "turma": 7,
+    "time": 7,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -586,7 +586,7 @@
   },
   {
     "nome": "Rodrigo Lima",
-    "turma": 7,
+    "time": 7,
     "cidade": "Santarém",
     "estado": "PA",
     "endereco": "Santarém, PA",
@@ -595,7 +595,7 @@
   },
   {
     "nome": "Vinícius Soares",
-    "turma": 7,
+    "time": 7,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -604,7 +604,7 @@
   },
   {
     "nome": "Tiago Chacon",
-    "turma": 10,
+    "time": 10,
     "cidade": "",
     "estado": "Québec",
     "endereco": ", Québec",
@@ -613,7 +613,7 @@
   },
   {
     "nome": "Keylla Rodrigues",
-    "turma": 12,
+    "time": 12,
     "cidade": "",
     "estado": "Langley, BC",
     "endereco": ", Langley, BC",
@@ -622,7 +622,7 @@
   },
   {
     "nome": "Anna Moura Sobral",
-    "turma": 12,
+    "time": 12,
     "cidade": "",
     "estado": "Copenhagen",
     "endereco": ", Copenhagen",
@@ -631,7 +631,7 @@
   },
   {
     "nome": "Hugo Bertolotti",
-    "turma": 12,
+    "time": 12,
     "cidade": "",
     "estado": "Midleton",
     "endereco": ", Midleton",
@@ -640,7 +640,7 @@
   },
   {
     "nome": "Rafael Tivane",
-    "turma": 7,
+    "time": 7,
     "cidade": "",
     "estado": "Maputo",
     "endereco": ", Maputo",
@@ -649,7 +649,7 @@
   },
   {
     "nome": "Gabriela Cantarini",
-    "turma": 10,
+    "time": 10,
     "cidade": "",
     "estado": "Bombarral, Leiria",
     "endereco": ", Bombarral, Leiria",
@@ -658,7 +658,7 @@
   },
   {
     "nome": "Victor Teodoro",
-    "turma": 11,
+    "time": 11,
     "cidade": "",
     "estado": "Porto",
     "endereco": ", Porto",
@@ -667,7 +667,7 @@
   },
   {
     "nome": "Rodrigo Cerqueira",
-    "turma": 13,
+    "time": 13,
     "cidade": "",
     "estado": "Viseu",
     "endereco": ", Viseu",
@@ -676,7 +676,7 @@
   },
   {
     "nome": "Eduardo Gerbelli",
-    "turma": 11,
+    "time": 11,
     "cidade": "",
     "estado": "Londres",
     "endereco": ", Londres",
@@ -685,7 +685,7 @@
   },
   {
     "nome": "Adriano Cesar",
-    "turma": 8,
+    "time": 8,
     "cidade": "Betim",
     "estado": "MG",
     "endereco": "Betim, MG",
@@ -694,7 +694,7 @@
   },
   {
     "nome": "Auricelio Freitas",
-    "turma": 8,
+    "time": 8,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -703,7 +703,7 @@
   },
   {
     "nome": "Caio Correa",
-    "turma": 8,
+    "time": 8,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -712,7 +712,7 @@
   },
   {
     "nome": "Celson Oliveira",
-    "turma": 8,
+    "time": 8,
     "cidade": "Baião",
     "estado": "PA",
     "endereco": "Baião, PA",
@@ -721,7 +721,7 @@
   },
   {
     "nome": "Daniel Coelho",
-    "turma": 8,
+    "time": 8,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -730,7 +730,7 @@
   },
   {
     "nome": "Daniel Strano",
-    "turma": 8,
+    "time": 8,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -739,7 +739,7 @@
   },
   {
     "nome": "Dirceu Barquette",
-    "turma": 8,
+    "time": 8,
     "cidade": "Rio das Ostras",
     "estado": "RJ",
     "endereco": "Rio das Ostras, RJ",
@@ -748,7 +748,7 @@
   },
   {
     "nome": "Giliard Pereira",
-    "turma": 8,
+    "time": 8,
     "cidade": "Mogi das Cruzes",
     "estado": "SP",
     "endereco": "Mogi das Cruzes, SP",
@@ -757,7 +757,7 @@
   },
   {
     "nome": "Guilherme Sawicki",
-    "turma": 8,
+    "time": 8,
     "cidade": "Santa Rosa",
     "estado": "RS",
     "endereco": "Santa Rosa, RS",
@@ -766,7 +766,7 @@
   },
   {
     "nome": "Gustavo Brasil",
-    "turma": 8,
+    "time": 8,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -775,7 +775,7 @@
   },
   {
     "nome": "Hugo Corrêa",
-    "turma": 8,
+    "time": 8,
     "cidade": "Campos",
     "estado": "RJ",
     "endereco": "Campos, RJ",
@@ -784,7 +784,7 @@
   },
   {
     "nome": "Janderson Campêlo",
-    "turma": 8,
+    "time": 8,
     "cidade": "Toledo",
     "estado": "PR",
     "endereco": "Toledo, PR",
@@ -793,7 +793,7 @@
   },
   {
     "nome": "Lucas Souza",
-    "turma": 8,
+    "time": 8,
     "cidade": "Recife",
     "estado": "PE",
     "endereco": "Recife, PE",
@@ -802,7 +802,7 @@
   },
   {
     "nome": "Paulo Carvalho",
-    "turma": 8,
+    "time": 8,
     "cidade": "Viçosa do Ceará",
     "estado": "CE",
     "endereco": "Viçosa do Ceará, CE",
@@ -811,7 +811,7 @@
   },
   {
     "nome": "Paulo Stryder",
-    "turma": 8,
+    "time": 8,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -820,7 +820,7 @@
   },
   {
     "nome": "Paulo Victor",
-    "turma": 8,
+    "time": 8,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -829,7 +829,7 @@
   },
   {
     "nome": "Rodolfo Martins",
-    "turma": 8,
+    "time": 8,
     "cidade": "Candeias",
     "estado": "MG",
     "endereco": "Candeias, MG",
@@ -838,7 +838,7 @@
   },
   {
     "nome": "Bruno Eduardo",
-    "turma": 9,
+    "time": 9,
     "cidade": "Toledo",
     "estado": "SP",
     "endereco": "Toledo, SP",
@@ -847,7 +847,7 @@
   },
   {
     "nome": "Bruno Milano",
-    "turma": 9,
+    "time": 9,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -856,7 +856,7 @@
   },
   {
     "nome": "Bruno Sabbag Machado",
-    "turma": 9,
+    "time": 9,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -865,7 +865,7 @@
   },
   {
     "nome": "César Morgado",
-    "turma": 9,
+    "time": 9,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -874,7 +874,7 @@
   },
   {
     "nome": "Cleverson Lira",
-    "turma": 9,
+    "time": 9,
     "cidade": "Taboão da Serra",
     "estado": "SP",
     "endereco": "Taboão da Serra, SP",
@@ -883,7 +883,7 @@
   },
   {
     "nome": "Daniel Saldanha",
-    "turma": 9,
+    "time": 9,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -892,7 +892,7 @@
   },
   {
     "nome": "Daniel Sóstenes",
-    "turma": 9,
+    "time": 9,
     "cidade": "Brotas",
     "estado": "SP",
     "endereco": "Brotas, SP",
@@ -901,7 +901,7 @@
   },
   {
     "nome": "Danilo Chaves",
-    "turma": 9,
+    "time": 9,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -910,7 +910,7 @@
   },
   {
     "nome": "Dener Oliveira",
-    "turma": 9,
+    "time": 9,
     "cidade": "Jandira",
     "estado": "SP",
     "endereco": "Jandira, SP",
@@ -919,7 +919,7 @@
   },
   {
     "nome": "Derick Lucas",
-    "turma": 9,
+    "time": 9,
     "cidade": "Serra",
     "estado": "ES",
     "endereco": "Serra, ES",
@@ -928,7 +928,7 @@
   },
   {
     "nome": "Felipe Rosa",
-    "turma": 9,
+    "time": 9,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -937,7 +937,7 @@
   },
   {
     "nome": "Fernando Alencar",
-    "turma": 9,
+    "time": 9,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -946,7 +946,7 @@
   },
   {
     "nome": "Heder Alves",
-    "turma": 9,
+    "time": 9,
     "cidade": "Contenda",
     "estado": "PR",
     "endereco": "Contenda, PR",
@@ -955,7 +955,7 @@
   },
   {
     "nome": "Jean Fraga",
-    "turma": 9,
+    "time": 9,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -964,7 +964,7 @@
   },
   {
     "nome": "Jhone Mike",
-    "turma": 9,
+    "time": 9,
     "cidade": "Matão",
     "estado": "SP",
     "endereco": "Matão, SP",
@@ -973,7 +973,7 @@
   },
   {
     "nome": "João Pedro Almeida",
-    "turma": 9,
+    "time": 9,
     "cidade": "Vila Velha",
     "estado": "ES",
     "endereco": "Vila Velha, ES",
@@ -982,7 +982,7 @@
   },
   {
     "nome": "João Vitor Mendes de Oliveira",
-    "turma": 9,
+    "time": 9,
     "cidade": "Itaporanga",
     "estado": "SP",
     "endereco": "Itaporanga, SP",
@@ -991,7 +991,7 @@
   },
   {
     "nome": "Lucas Bertoloto",
-    "turma": 9,
+    "time": 9,
     "cidade": "Nilópolis",
     "estado": "RJ",
     "endereco": "Nilópolis, RJ",
@@ -1000,7 +1000,7 @@
   },
   {
     "nome": "Lucas Figueiredo",
-    "turma": 9,
+    "time": 9,
     "cidade": "Recife",
     "estado": "PE",
     "endereco": "Recife, PE",
@@ -1009,7 +1009,7 @@
   },
   {
     "nome": "Lucas Motoso",
-    "turma": 9,
+    "time": 9,
     "cidade": "Jandira",
     "estado": "SP",
     "endereco": "Jandira, SP",
@@ -1018,7 +1018,7 @@
   },
   {
     "nome": "Marcos Vinicius",
-    "turma": 9,
+    "time": 9,
     "cidade": "São Vicente",
     "estado": "SP",
     "endereco": "São Vicente, SP",
@@ -1027,7 +1027,7 @@
   },
   {
     "nome": "Paulo Henrique Costa",
-    "turma": 9,
+    "time": 9,
     "cidade": "Jundiaí",
     "estado": "SP",
     "endereco": "Jundiaí, SP",
@@ -1036,7 +1036,7 @@
   },
   {
     "nome": "Renan Lima",
-    "turma": 9,
+    "time": 9,
     "cidade": "Poá",
     "estado": "SP",
     "endereco": "Poá, SP",
@@ -1045,7 +1045,7 @@
   },
   {
     "nome": "Rodrigo Botelho",
-    "turma": 9,
+    "time": 9,
     "cidade": "Belo Horizonte",
     "estado": "MG",
     "endereco": "Belo Horizonte, MG",
@@ -1054,7 +1054,7 @@
   },
   {
     "nome": "Rodrigo Carvalho",
-    "turma": 9,
+    "time": 9,
     "cidade": "João Pessoa",
     "estado": "PB",
     "endereco": "João Pessoa, PB",
@@ -1063,7 +1063,7 @@
   },
   {
     "nome": "Rodrigo Vianna",
-    "turma": 9,
+    "time": 9,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1072,7 +1072,7 @@
   },
   {
     "nome": "Ubiraci Junior",
-    "turma": 9,
+    "time": 9,
     "cidade": "Abadiânia",
     "estado": "GO",
     "endereco": "Abadiânia, GO",
@@ -1081,7 +1081,7 @@
   },
   {
     "nome": "Wander Ferreira",
-    "turma": 9,
+    "time": 9,
     "cidade": "Delfinópolis",
     "estado": "MG",
     "endereco": "Delfinópolis, MG",
@@ -1090,7 +1090,7 @@
   },
   {
     "nome": "Alexandre Rocha",
-    "turma": 10,
+    "time": 10,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1099,7 +1099,7 @@
   },
   {
     "nome": "Allan Abrahão",
-    "turma": 10,
+    "time": 10,
     "cidade": "Lages",
     "estado": "SC",
     "endereco": "Lages, SC",
@@ -1108,7 +1108,7 @@
   },
   {
     "nome": "Anderson Brazão",
-    "turma": 10,
+    "time": 10,
     "cidade": "Santos",
     "estado": "SP",
     "endereco": "Santos, SP",
@@ -1117,7 +1117,7 @@
   },
   {
     "nome": "Arthur Scarpati",
-    "turma": 10,
+    "time": 10,
     "cidade": "Aracruz",
     "estado": "ES",
     "endereco": "Aracruz, ES",
@@ -1126,7 +1126,7 @@
   },
   {
     "nome": "Bárbara Gabriela",
-    "turma": 10,
+    "time": 10,
     "cidade": "Rafael Fernandes",
     "estado": "RN",
     "endereco": "Rafael Fernandes, RN",
@@ -1135,7 +1135,7 @@
   },
   {
     "nome": "Bruno Staine",
-    "turma": 10,
+    "time": 10,
     "cidade": "Brasilia",
     "estado": "DF",
     "endereco": "Brasilia, DF",
@@ -1144,7 +1144,7 @@
   },
   {
     "nome": "Bruno Uchôa",
-    "turma": 10,
+    "time": 10,
     "cidade": "Mesquita",
     "estado": "RJ",
     "endereco": "Mesquita, RJ",
@@ -1153,7 +1153,7 @@
   },
   {
     "nome": "Carlos Gizbert",
-    "turma": 10,
+    "time": 10,
     "cidade": "Praia Grande",
     "estado": "SP",
     "endereco": "Praia Grande, SP",
@@ -1162,7 +1162,7 @@
   },
   {
     "nome": "Carlos Magno",
-    "turma": 10,
+    "time": 10,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1171,7 +1171,7 @@
   },
   {
     "nome": "Cristiane Nicolini",
-    "turma": 10,
+    "time": 10,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1180,7 +1180,7 @@
   },
   {
     "nome": "Elias Junior",
-    "turma": 10,
+    "time": 10,
     "cidade": "Duque de Caxias",
     "estado": "RJ",
     "endereco": "Duque de Caxias, RJ",
@@ -1189,7 +1189,7 @@
   },
   {
     "nome": "Felipe Campos",
-    "turma": 10,
+    "time": 10,
     "cidade": "Sorocaba",
     "estado": "SP",
     "endereco": "Sorocaba, SP",
@@ -1198,7 +1198,7 @@
   },
   {
     "nome": "Gabriel Nunes",
-    "turma": 10,
+    "time": 10,
     "cidade": "São José",
     "estado": "SC",
     "endereco": "São José, SC",
@@ -1207,7 +1207,7 @@
   },
   {
     "nome": "Guilherme Rodrigues",
-    "turma": 10,
+    "time": 10,
     "cidade": "Ferraz de Vasconcelos",
     "estado": "SP",
     "endereco": "Ferraz de Vasconcelos, SP",
@@ -1216,7 +1216,7 @@
   },
   {
     "nome": "Jean Meira",
-    "turma": 10,
+    "time": 10,
     "cidade": "Alumínio",
     "estado": "SP",
     "endereco": "Alumínio, SP",
@@ -1225,7 +1225,7 @@
   },
   {
     "nome": "João Francisco",
-    "turma": 10,
+    "time": 10,
     "cidade": "Coronel Vivida",
     "estado": "PR",
     "endereco": "Coronel Vivida, PR",
@@ -1234,7 +1234,7 @@
   },
   {
     "nome": "Jonathan Lopes",
-    "turma": 10,
+    "time": 10,
     "cidade": "Itaquaquecetuba",
     "estado": "SP",
     "endereco": "Itaquaquecetuba, SP",
@@ -1243,7 +1243,7 @@
   },
   {
     "nome": "Jorge Thiago",
-    "turma": 10,
+    "time": 10,
     "cidade": "São Pedro da Aldeia",
     "estado": "RJ",
     "endereco": "São Pedro da Aldeia, RJ",
@@ -1252,7 +1252,7 @@
   },
   {
     "nome": "Kevyn Rocha",
-    "turma": 10,
+    "time": 10,
     "cidade": "Teixeira de Freitas",
     "estado": "BA",
     "endereco": "Teixeira de Freitas, BA",
@@ -1261,7 +1261,7 @@
   },
   {
     "nome": "Lucas Vuletic",
-    "turma": 10,
+    "time": 10,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1270,7 +1270,7 @@
   },
   {
     "nome": "Marcio Orlandini",
-    "turma": 10,
+    "time": 10,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1279,7 +1279,7 @@
   },
   {
     "nome": "Marcos Maia",
-    "turma": 10,
+    "time": 10,
     "cidade": "Recife",
     "estado": "PE",
     "endereco": "Recife, PE",
@@ -1288,7 +1288,7 @@
   },
   {
     "nome": "Michel Wene",
-    "turma": 10,
+    "time": 10,
     "cidade": "Quatá",
     "estado": "SP",
     "endereco": "Quatá, SP",
@@ -1297,7 +1297,7 @@
   },
   {
     "nome": "Nathan Pagotto",
-    "turma": 10,
+    "time": 10,
     "cidade": "Capivari",
     "estado": "SP",
     "endereco": "Capivari, SP",
@@ -1306,7 +1306,7 @@
   },
   {
     "nome": "Osmar Macedo Junior",
-    "turma": 10,
+    "time": 10,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1315,7 +1315,7 @@
   },
   {
     "nome": "Paula Schunck",
-    "turma": 10,
+    "time": 10,
     "cidade": "Taquara",
     "estado": "RS",
     "endereco": "Taquara, RS",
@@ -1324,7 +1324,7 @@
   },
   {
     "nome": "Rafael Scussiato",
-    "turma": 10,
+    "time": 10,
     "cidade": "Chapecó",
     "estado": "SC",
     "endereco": "Chapecó, SC",
@@ -1333,7 +1333,7 @@
   },
   {
     "nome": "Ramon Brito",
-    "turma": 10,
+    "time": 10,
     "cidade": "São José dos Pinhais",
     "estado": "PR",
     "endereco": "São José dos Pinhais, PR",
@@ -1342,7 +1342,7 @@
   },
   {
     "nome": "Renan Favero",
-    "turma": 10,
+    "time": 10,
     "cidade": "Americana",
     "estado": "SP",
     "endereco": "Americana, SP",
@@ -1351,7 +1351,7 @@
   },
   {
     "nome": "Rikelvem Silva",
-    "turma": 10,
+    "time": 10,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1360,7 +1360,7 @@
   },
   {
     "nome": "Tânia Miguel",
-    "turma": 10,
+    "time": 10,
     "cidade": "Cambé",
     "estado": "PR",
     "endereco": "Cambé, PR",
@@ -1369,7 +1369,7 @@
   },
   {
     "nome": "Teddy Andrade",
-    "turma": 10,
+    "time": 10,
     "cidade": "Brasilia",
     "estado": "DF",
     "endereco": "Brasilia, DF",
@@ -1378,7 +1378,7 @@
   },
   {
     "nome": "Thiago Jordão",
-    "turma": 10,
+    "time": 10,
     "cidade": "João Câmara",
     "estado": "RN",
     "endereco": "João Câmara, RN",
@@ -1387,7 +1387,7 @@
   },
   {
     "nome": "Uítalo Souza",
-    "turma": 10,
+    "time": 10,
     "cidade": "Salvador",
     "estado": "BA",
     "endereco": "Salvador, BA",
@@ -1396,7 +1396,7 @@
   },
   {
     "nome": "Valério Dias",
-    "turma": 10,
+    "time": 10,
     "cidade": "Nilópolis",
     "estado": "RJ",
     "endereco": "Nilópolis, RJ",
@@ -1405,7 +1405,7 @@
   },
   {
     "nome": "Vitor Lobo",
-    "turma": 10,
+    "time": 10,
     "cidade": "Vitória",
     "estado": "ES",
     "endereco": "Vitória, ES",
@@ -1414,7 +1414,7 @@
   },
   {
     "nome": "Wendell Santos",
-    "turma": 10,
+    "time": 10,
     "cidade": "Niterói",
     "estado": "RJ",
     "endereco": "Niterói, RJ",
@@ -1423,7 +1423,7 @@
   },
   {
     "nome": "Alan Angeli",
-    "turma": 11,
+    "time": 11,
     "cidade": "Santo André",
     "estado": "SP",
     "endereco": "Santo André, SP",
@@ -1432,7 +1432,7 @@
   },
   {
     "nome": "Amanda Estrela",
-    "turma": 11,
+    "time": 11,
     "cidade": "Florianópolis",
     "estado": "SC",
     "endereco": "Florianópolis, SC",
@@ -1441,7 +1441,7 @@
   },
   {
     "nome": "Ana Paula Cury",
-    "turma": 11,
+    "time": 11,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -1450,7 +1450,7 @@
   },
   {
     "nome": "Ana Paula Pereira Araújo",
-    "turma": 11,
+    "time": 11,
     "cidade": "Araxá",
     "estado": "MG",
     "endereco": "Araxá, MG",
@@ -1459,7 +1459,7 @@
   },
   {
     "nome": "André Barbosa",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1468,7 +1468,7 @@
   },
   {
     "nome": "Angela Caldas",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Luís",
     "estado": "MA",
     "endereco": "São Luís, MA",
@@ -1477,7 +1477,7 @@
   },
   {
     "nome": "Aurelio Carvalho",
-    "turma": 11,
+    "time": 11,
     "cidade": "Santa Teresa",
     "estado": "ES",
     "endereco": "Santa Teresa, ES",
@@ -1486,7 +1486,7 @@
   },
   {
     "nome": "Bruno Emerich Ferreira",
-    "turma": 11,
+    "time": 11,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -1495,7 +1495,7 @@
   },
   {
     "nome": "Bruno Rocha",
-    "turma": 11,
+    "time": 11,
     "cidade": "Uberlândia",
     "estado": "MG",
     "endereco": "Uberlândia, MG",
@@ -1504,7 +1504,7 @@
   },
   {
     "nome": "Bruno Weber",
-    "turma": 11,
+    "time": 11,
     "cidade": "Florianópolis",
     "estado": "SC",
     "endereco": "Florianópolis, SC",
@@ -1513,7 +1513,7 @@
   },
   {
     "nome": "Camila de Oliveira",
-    "turma": 11,
+    "time": 11,
     "cidade": "Birigui",
     "estado": "SP",
     "endereco": "Birigui, SP",
@@ -1522,7 +1522,7 @@
   },
   {
     "nome": "Caue Norci",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1531,7 +1531,7 @@
   },
   {
     "nome": "César Ventura",
-    "turma": 11,
+    "time": 11,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -1540,7 +1540,7 @@
   },
   {
     "nome": "David Pires",
-    "turma": 11,
+    "time": 11,
     "cidade": "Taguatinga",
     "estado": "DF",
     "endereco": "Taguatinga, DF",
@@ -1549,7 +1549,7 @@
   },
   {
     "nome": "Demétrio Nascimento",
-    "turma": 11,
+    "time": 11,
     "cidade": "Boa Vista",
     "estado": "RR",
     "endereco": "Boa Vista, RR",
@@ -1558,7 +1558,7 @@
   },
   {
     "nome": "Douglas Silva",
-    "turma": 11,
+    "time": 11,
     "cidade": "Gravataí",
     "estado": "RS",
     "endereco": "Gravataí, RS",
@@ -1567,7 +1567,7 @@
   },
   {
     "nome": "Eder Bronson",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1576,7 +1576,7 @@
   },
   {
     "nome": "Eduardo Leone",
-    "turma": 11,
+    "time": 11,
     "cidade": "Campo Grande",
     "estado": "MS",
     "endereco": "Campo Grande, MS",
@@ -1585,7 +1585,7 @@
   },
   {
     "nome": "Elemar Rapachi",
-    "turma": 11,
+    "time": 11,
     "cidade": "Passo Fundo",
     "estado": "RS",
     "endereco": "Passo Fundo, RS",
@@ -1594,7 +1594,7 @@
   },
   {
     "nome": "Emmanuel Lira",
-    "turma": 11,
+    "time": 11,
     "cidade": "Campina Grande",
     "estado": "PB",
     "endereco": "Campina Grande, PB",
@@ -1603,7 +1603,7 @@
   },
   {
     "nome": "Felipe Camargo Fernandes",
-    "turma": 11,
+    "time": 11,
     "cidade": "Praia Grande",
     "estado": "SP",
     "endereco": "Praia Grande, SP",
@@ -1612,7 +1612,7 @@
   },
   {
     "nome": "Gabriel Assana",
-    "turma": 11,
+    "time": 11,
     "cidade": "Taboão da Serra",
     "estado": "SP",
     "endereco": "Taboão da Serra, SP",
@@ -1621,7 +1621,7 @@
   },
   {
     "nome": "Gabriel Ferreira de Queiroz",
-    "turma": 11,
+    "time": 11,
     "cidade": "Osasco",
     "estado": "SP",
     "endereco": "Osasco, SP",
@@ -1630,7 +1630,7 @@
   },
   {
     "nome": "Gustavo Marquizeppe",
-    "turma": 11,
+    "time": 11,
     "cidade": "Cotia",
     "estado": "SP",
     "endereco": "Cotia, SP",
@@ -1639,7 +1639,7 @@
   },
   {
     "nome": "Isabella da Silva Martins",
-    "turma": 11,
+    "time": 11,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -1648,7 +1648,7 @@
   },
   {
     "nome": "Jefferson Cabral",
-    "turma": 11,
+    "time": 11,
     "cidade": "São José dos Campos",
     "estado": "SP",
     "endereco": "São José dos Campos, SP",
@@ -1657,7 +1657,7 @@
   },
   {
     "nome": "João Otávio",
-    "turma": 11,
+    "time": 11,
     "cidade": "Birigui",
     "estado": "SP",
     "endereco": "Birigui, SP",
@@ -1666,7 +1666,7 @@
   },
   {
     "nome": "Júnior Colares",
-    "turma": 11,
+    "time": 11,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -1675,7 +1675,7 @@
   },
   {
     "nome": "Leonardo Rodrigues",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1684,7 +1684,7 @@
   },
   {
     "nome": "Lúcio Israel",
-    "turma": 11,
+    "time": 11,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -1693,7 +1693,7 @@
   },
   {
     "nome": "Marco Aurélio da Silva",
-    "turma": 11,
+    "time": 11,
     "cidade": "Goiânia",
     "estado": "GO",
     "endereco": "Goiânia, GO",
@@ -1702,7 +1702,7 @@
   },
   {
     "nome": "Maycon Douglas",
-    "turma": 11,
+    "time": 11,
     "cidade": "Planaltina",
     "estado": "GO",
     "endereco": "Planaltina, GO",
@@ -1711,7 +1711,7 @@
   },
   {
     "nome": "Natalia Ciribello",
-    "turma": 11,
+    "time": 11,
     "cidade": "Leme",
     "estado": "SP",
     "endereco": "Leme, SP",
@@ -1720,7 +1720,7 @@
   },
   {
     "nome": "Patrick Guedes de Oliveira",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Luis",
     "estado": "MA",
     "endereco": "São Luis, MA",
@@ -1729,7 +1729,7 @@
   },
   {
     "nome": "Pedro Groppa",
-    "turma": 11,
+    "time": 11,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1738,7 +1738,7 @@
   },
   {
     "nome": "Pedro Henrique Costa",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1747,7 +1747,7 @@
   },
   {
     "nome": "Pedro Henrique Vincenzi",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1756,7 +1756,7 @@
   },
   {
     "nome": "Pedro Marcos",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Gonçalo",
     "estado": "RJ",
     "endereco": "São Gonçalo, RJ",
@@ -1765,7 +1765,7 @@
   },
   {
     "nome": "Rafael Rosa",
-    "turma": 11,
+    "time": 11,
     "cidade": "Belo Horizonte",
     "estado": "MG",
     "endereco": "Belo Horizonte, MG",
@@ -1774,7 +1774,7 @@
   },
   {
     "nome": "Rafael Torres",
-    "turma": 11,
+    "time": 11,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1783,7 +1783,7 @@
   },
   {
     "nome": "Roberto Martins Juchem",
-    "turma": 11,
+    "time": 11,
     "cidade": "Blumenau",
     "estado": "SC",
     "endereco": "Blumenau, SC",
@@ -1792,7 +1792,7 @@
   },
   {
     "nome": "Robson Leal",
-    "turma": 11,
+    "time": 11,
     "cidade": "Porto Alegre",
     "estado": "RS",
     "endereco": "Porto Alegre, RS",
@@ -1801,7 +1801,7 @@
   },
   {
     "nome": "Rodolfo Fialho da Costa",
-    "turma": 11,
+    "time": 11,
     "cidade": "Itaquaquecetuba",
     "estado": "SP",
     "endereco": "Itaquaquecetuba, SP",
@@ -1810,7 +1810,7 @@
   },
   {
     "nome": "Rodrigo Arantes",
-    "turma": 11,
+    "time": 11,
     "cidade": "Recife",
     "estado": "PE",
     "endereco": "Recife, PE",
@@ -1819,7 +1819,7 @@
   },
   {
     "nome": "Rodrigo Navarro",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -1828,7 +1828,7 @@
   },
   {
     "nome": "Rosana Cristina Mascena",
-    "turma": 11,
+    "time": 11,
     "cidade": "Porto Alegre",
     "estado": "RS",
     "endereco": "Porto Alegre, RS",
@@ -1837,7 +1837,7 @@
   },
   {
     "nome": "Ruan Carlos",
-    "turma": 11,
+    "time": 11,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1846,7 +1846,7 @@
   },
   {
     "nome": "Saulo Pascon",
-    "turma": 11,
+    "time": 11,
     "cidade": "Sumaré",
     "estado": "SP",
     "endereco": "Sumaré, SP",
@@ -1855,7 +1855,7 @@
   },
   {
     "nome": "Sidney Siqueira",
-    "turma": 11,
+    "time": 11,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -1864,7 +1864,7 @@
   },
   {
     "nome": "Stanley Shen dos Santos",
-    "turma": 11,
+    "time": 11,
     "cidade": "Pindamonhangaba",
     "estado": "SP",
     "endereco": "Pindamonhangaba, SP",
@@ -1873,7 +1873,7 @@
   },
   {
     "nome": "Swamiy Saraiva Gabriel de Campos",
-    "turma": 11,
+    "time": 11,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -1882,7 +1882,7 @@
   },
   {
     "nome": "Victor Launé",
-    "turma": 11,
+    "time": 11,
     "cidade": "São Luis",
     "estado": "MA",
     "endereco": "São Luis, MA",
@@ -1891,7 +1891,7 @@
   },
   {
     "nome": "Vinicius Ribeiro",
-    "turma": 11,
+    "time": 11,
     "cidade": "Salvador",
     "estado": "BA",
     "endereco": "Salvador, BA",
@@ -1900,7 +1900,7 @@
   },
   {
     "nome": "Vitor Augusto",
-    "turma": 11,
+    "time": 11,
     "cidade": "Contagem",
     "estado": "MG",
     "endereco": "Contagem, MG",
@@ -1909,7 +1909,7 @@
   },
   {
     "nome": "Well Ramos",
-    "turma": 11,
+    "time": 11,
     "cidade": "Recife",
     "estado": "PE",
     "endereco": "Recife, PE",
@@ -1918,7 +1918,7 @@
   },
   {
     "nome": "Wesley Marcelino",
-    "turma": 11,
+    "time": 11,
     "cidade": "Juiz de Fora",
     "estado": "MG",
     "endereco": "Juiz de Fora , MG",
@@ -1927,7 +1927,7 @@
   },
   {
     "nome": "William Garcia",
-    "turma": 11,
+    "time": 11,
     "cidade": "Passo Fundo",
     "estado": "RS",
     "endereco": "Passo Fundo, RS",
@@ -1936,7 +1936,7 @@
   },
   {
     "nome": "William Irassochio",
-    "turma": 11,
+    "time": 11,
     "cidade": "Arroio do Sal",
     "estado": "RS",
     "endereco": "Arroio do Sal, RS",
@@ -1945,7 +1945,7 @@
   },
   {
     "nome": "Alex Corrêa Sales",
-    "turma": 12,
+    "time": 12,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -1954,7 +1954,7 @@
   },
   {
     "nome": "Alexandre Silva",
-    "turma": 12,
+    "time": 12,
     "cidade": "Curitiba",
     "estado": "PA",
     "endereco": "Curitiba, PA",
@@ -1963,7 +1963,7 @@
   },
   {
     "nome": "Ana Letícia Carvalho",
-    "turma": 12,
+    "time": 12,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -1972,7 +1972,7 @@
   },
   {
     "nome": "Andre Muzy",
-    "turma": 12,
+    "time": 12,
     "cidade": "Niterói",
     "estado": "RJ",
     "endereco": "Niterói, RJ",
@@ -1981,7 +1981,7 @@
   },
   {
     "nome": "Anibal Junior",
-    "turma": 12,
+    "time": 12,
     "cidade": "Manaus",
     "estado": "AM",
     "endereco": "Manaus, AM",
@@ -1990,7 +1990,7 @@
   },
   {
     "nome": "Bruno Rodrigues Borelli",
-    "turma": 12,
+    "time": 12,
     "cidade": "Goiânia",
     "estado": "GO",
     "endereco": "Goiânia, GO",
@@ -1999,7 +1999,7 @@
   },
   {
     "nome": "Carlos Guergolet",
-    "turma": 12,
+    "time": 12,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -2008,7 +2008,7 @@
   },
   {
     "nome": "Carlos Jefferson",
-    "turma": 12,
+    "time": 12,
     "cidade": "Paranatinga",
     "estado": "MT",
     "endereco": "Paranatinga, MT",
@@ -2017,7 +2017,7 @@
   },
   {
     "nome": "Caroline Barbosa Vilar",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Bernardo do Campo",
     "estado": "SP",
     "endereco": "São Bernardo do Campo, SP",
@@ -2026,7 +2026,7 @@
   },
   {
     "nome": "Christian Seidler",
-    "turma": 12,
+    "time": 12,
     "cidade": "Porto Belo",
     "estado": "SC",
     "endereco": "Porto Belo, SC",
@@ -2035,7 +2035,7 @@
   },
   {
     "nome": "Daniel de Carvalho",
-    "turma": 12,
+    "time": 12,
     "cidade": "Guanhães",
     "estado": "MG",
     "endereco": "Guanhães, MG",
@@ -2044,7 +2044,7 @@
   },
   {
     "nome": "Dimas Capelari",
-    "turma": 12,
+    "time": 12,
     "cidade": "São José do Rio Pardo",
     "estado": "SP",
     "endereco": "São José do Rio Pardo, SP",
@@ -2053,7 +2053,7 @@
   },
   {
     "nome": "Douglas Figueiredo",
-    "turma": 12,
+    "time": 12,
     "cidade": "Palhoça",
     "estado": "SC",
     "endereco": "Palhoça, SC",
@@ -2062,7 +2062,7 @@
   },
   {
     "nome": "Douglas Figueiredo",
-    "turma": 12,
+    "time": 12,
     "cidade": "Nova Iguaçu",
     "estado": "RJ",
     "endereco": "Nova Iguaçu, RJ",
@@ -2071,7 +2071,7 @@
   },
   {
     "nome": "Eduarda Bezerra",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2080,7 +2080,7 @@
   },
   {
     "nome": "Emerson Nascimento Freire",
-    "turma": 12,
+    "time": 12,
     "cidade": "Hortolândia",
     "estado": "SP",
     "endereco": "Hortolândia, SP",
@@ -2089,7 +2089,7 @@
   },
   {
     "nome": "Fábio Costa Silva",
-    "turma": 12,
+    "time": 12,
     "cidade": "Registro",
     "estado": "SP",
     "endereco": "Registro, SP",
@@ -2098,7 +2098,7 @@
   },
   {
     "nome": "Felipe Jorge Poço",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2107,7 +2107,7 @@
   },
   {
     "nome": "Fernando Mercado",
-    "turma": 12,
+    "time": 12,
     "cidade": "Birigui",
     "estado": "SP",
     "endereco": "Birigui, SP",
@@ -2116,7 +2116,7 @@
   },
   {
     "nome": "Francelino Marcilo da Silva",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo do Potengi",
     "estado": "RN",
     "endereco": "São Paulo do Potengi, RN",
@@ -2125,7 +2125,7 @@
   },
   {
     "nome": "Francielle Ribeiro",
-    "turma": 12,
+    "time": 12,
     "cidade": "Porto Seguro",
     "estado": "BA",
     "endereco": "Porto Seguro, BA",
@@ -2134,7 +2134,7 @@
   },
   {
     "nome": "Gabriel Gerolineto",
-    "turma": 12,
+    "time": 12,
     "cidade": "Uberlândia",
     "estado": "MG",
     "endereco": "Uberlândia, MG",
@@ -2143,7 +2143,7 @@
   },
   {
     "nome": "Gabriel Santos",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2152,7 +2152,7 @@
   },
   {
     "nome": "Gabriel Tavares",
-    "turma": 12,
+    "time": 12,
     "cidade": "Uberlândia",
     "estado": "MG",
     "endereco": "Uberlândia, MG",
@@ -2161,7 +2161,7 @@
   },
   {
     "nome": "Gilvan Medeiros de Castro",
-    "turma": 12,
+    "time": 12,
     "cidade": "Asa Branca",
     "estado": "RN",
     "endereco": "Asa Branca, RN",
@@ -2170,7 +2170,7 @@
   },
   {
     "nome": "Glenda Esteves",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Carlos",
     "estado": "SP",
     "endereco": "São Carlos, SP",
@@ -2179,7 +2179,7 @@
   },
   {
     "nome": "Gustavo Bernardes",
-    "turma": 12,
+    "time": 12,
     "cidade": "Francisco Morato",
     "estado": "SP",
     "endereco": "Francisco Morato, SP",
@@ -2188,7 +2188,7 @@
   },
   {
     "nome": "Hans Sérgio",
-    "turma": 12,
+    "time": 12,
     "cidade": "Brasilia",
     "estado": "DF",
     "endereco": "Brasilia, DF",
@@ -2197,7 +2197,7 @@
   },
   {
     "nome": "Henrique Maia",
-    "turma": 12,
+    "time": 12,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2206,7 +2206,7 @@
   },
   {
     "nome": "Joelington Marques",
-    "turma": 12,
+    "time": 12,
     "cidade": "Brasilia",
     "estado": "DF",
     "endereco": "Brasilia, DF",
@@ -2215,7 +2215,7 @@
   },
   {
     "nome": "José Carlos",
-    "turma": 12,
+    "time": 12,
     "cidade": "Esmeraldas",
     "estado": "MG",
     "endereco": "Esmeraldas, MG",
@@ -2224,7 +2224,7 @@
   },
   {
     "nome": "Jose Carlos Sant'Anna Junior",
-    "turma": 12,
+    "time": 12,
     "cidade": "São José do Rio Preto",
     "estado": "SP",
     "endereco": "São José do Rio Preto, SP",
@@ -2233,7 +2233,7 @@
   },
   {
     "nome": "José Maria Neto",
-    "turma": 12,
+    "time": 12,
     "cidade": "João Pessoa",
     "estado": "PB",
     "endereco": "João Pessoa, PB",
@@ -2242,7 +2242,7 @@
   },
   {
     "nome": "Júlio Cezar",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2251,7 +2251,7 @@
   },
   {
     "nome": "Leonardo Weiss",
-    "turma": 12,
+    "time": 12,
     "cidade": "Planalto",
     "estado": "BA",
     "endereco": "Planalto, BA",
@@ -2260,7 +2260,7 @@
   },
   {
     "nome": "Levi Barbosa",
-    "turma": 12,
+    "time": 12,
     "cidade": "Ribeirão Preto",
     "estado": "SP",
     "endereco": "Ribeirão Preto, SP",
@@ -2269,7 +2269,7 @@
   },
   {
     "nome": "Lucas Samuel",
-    "turma": 12,
+    "time": 12,
     "cidade": "Itabiriro",
     "estado": "MG",
     "endereco": "Itabiriro, MG",
@@ -2278,7 +2278,7 @@
   },
   {
     "nome": "Manoel Arruda",
-    "turma": 12,
+    "time": 12,
     "cidade": "Magé",
     "estado": "RJ",
     "endereco": "Magé, RJ",
@@ -2287,7 +2287,7 @@
   },
   {
     "nome": "Matheus Ferreira",
-    "turma": 12,
+    "time": 12,
     "cidade": "Juiz de Fora",
     "estado": "MG",
     "endereco": "Juiz de Fora , MG",
@@ -2296,7 +2296,7 @@
   },
   {
     "nome": "Millena Cunha da Cruz",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Luís",
     "estado": "MA",
     "endereco": "São Luís, MA",
@@ -2305,7 +2305,7 @@
   },
   {
     "nome": "Natã Muniz",
-    "turma": 12,
+    "time": 12,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2314,7 +2314,7 @@
   },
   {
     "nome": "Natalia Jordana",
-    "turma": 12,
+    "time": 12,
     "cidade": "Nova Iguaçu",
     "estado": "RJ",
     "endereco": "Nova Iguaçu, RJ",
@@ -2323,7 +2323,7 @@
   },
   {
     "nome": "Nayana Loivos",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2332,7 +2332,7 @@
   },
   {
     "nome": "Patrícia de Oliveira",
-    "turma": 12,
+    "time": 12,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -2341,7 +2341,7 @@
   },
   {
     "nome": "Paulo Santana",
-    "turma": 12,
+    "time": 12,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -2350,7 +2350,7 @@
   },
   {
     "nome": "Pedro Alexsander",
-    "turma": 12,
+    "time": 12,
     "cidade": "Juiz de Fora",
     "estado": "MG",
     "endereco": "Juiz de Fora , MG",
@@ -2359,7 +2359,7 @@
   },
   {
     "nome": "Ramon Costa",
-    "turma": 12,
+    "time": 12,
     "cidade": "Itapecerica",
     "estado": "MG",
     "endereco": "Itapecerica, MG",
@@ -2368,7 +2368,7 @@
   },
   {
     "nome": "Rhaná Teixeira",
-    "turma": 12,
+    "time": 12,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -2377,7 +2377,7 @@
   },
   {
     "nome": "Rodrigo Cardoso da Silva",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Mateus",
     "estado": "SP",
     "endereco": "São Mateus, SP",
@@ -2386,7 +2386,7 @@
   },
   {
     "nome": "Rosana Giglio",
-    "turma": 12,
+    "time": 12,
     "cidade": "Bariri",
     "estado": "SP",
     "endereco": "Bariri, SP",
@@ -2395,7 +2395,7 @@
   },
   {
     "nome": "Taina Santos",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2404,7 +2404,7 @@
   },
   {
     "nome": "Thiago Lemes",
-    "turma": 12,
+    "time": 12,
     "cidade": "Fazenda Rio Grande",
     "estado": "PR",
     "endereco": "Fazenda Rio Grande, PR",
@@ -2413,7 +2413,7 @@
   },
   {
     "nome": "Thiago Santanna",
-    "turma": 12,
+    "time": 12,
     "cidade": "Recife",
     "estado": "PE",
     "endereco": "Recife, PE",
@@ -2422,7 +2422,7 @@
   },
   {
     "nome": "Ulisses Silvério",
-    "turma": 12,
+    "time": 12,
     "cidade": "Divinópolis",
     "estado": "MG",
     "endereco": "Divinópolis, MG",
@@ -2431,7 +2431,7 @@
   },
   {
     "nome": "Vinicius Souza Oliveira",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2440,7 +2440,7 @@
   },
   {
     "nome": "Walter Lima Viana",
-    "turma": 12,
+    "time": 12,
     "cidade": "São Bernardo do Campo",
     "estado": "SP",
     "endereco": "São Bernardo do Campo, SP",
@@ -2449,7 +2449,7 @@
   },
   {
     "nome": "Walter Soprani Júnior",
-    "turma": 12,
+    "time": 12,
     "cidade": "Mogi das Cruzes",
     "estado": "SP",
     "endereco": "Mogi das Cruzes, SP",
@@ -2458,7 +2458,7 @@
   },
   {
     "nome": "Willian Paulino",
-    "turma": 12,
+    "time": 12,
     "cidade": "Osasco",
     "estado": "SP",
     "endereco": "Osasco, SP",
@@ -2467,7 +2467,7 @@
   },
   {
     "nome": "Fernando Pereira Costa",
-    "turma": 13,
+    "time": 13,
     "cidade": "São José do Egito",
     "estado": "PE",
     "endereco": "São José do Egito, PE",
@@ -2476,7 +2476,7 @@
   },
   {
     "nome": "Adriano Andrade Santos",
-    "turma": 13,
+    "time": 13,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -2485,7 +2485,7 @@
   },
   {
     "nome": "Tatiane Patriota",
-    "turma": 13,
+    "time": 13,
     "cidade": "Araruama",
     "estado": "RJ",
     "endereco": "Araruama, RJ",
@@ -2494,7 +2494,7 @@
   },
   {
     "nome": "André Baccili",
-    "turma": 13,
+    "time": 13,
     "cidade": "Maceió",
     "estado": "AL",
     "endereco": "Maceió, AL",
@@ -2503,7 +2503,7 @@
   },
   {
     "nome": "Natanael Chagas",
-    "turma": 13,
+    "time": 13,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -2512,7 +2512,7 @@
   },
   {
     "nome": "Lucas Rodrigues Fernandes da Silva",
-    "turma": 13,
+    "time": 13,
     "cidade": "Juazeiro do Norte",
     "estado": "CE",
     "endereco": "Juazeiro do Norte, CE",
@@ -2521,7 +2521,7 @@
   },
   {
     "nome": "Oscar Lima Oliveira Junior",
-    "turma": 13,
+    "time": 13,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2530,7 +2530,7 @@
   },
   {
     "nome": "Flávia Venturini",
-    "turma": 13,
+    "time": 13,
     "cidade": "Vitória",
     "estado": "ES",
     "endereco": "Vitória, ES",
@@ -2539,7 +2539,7 @@
   },
   {
     "nome": "Mateus Abdallah",
-    "turma": 13,
+    "time": 13,
     "cidade": "Brasília",
     "estado": "DF",
     "endereco": "Brasília, DF",
@@ -2548,7 +2548,7 @@
   },
   {
     "nome": "Fabio Donizetti",
-    "turma": 13,
+    "time": 13,
     "cidade": "São José do Rio Preto",
     "estado": "SP",
     "endereco": "São José do Rio Preto, SP",
@@ -2557,7 +2557,7 @@
   },
   {
     "nome": "Camila Patrícia da Silva Bento",
-    "turma": 13,
+    "time": 13,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2566,7 +2566,7 @@
   },
   {
     "nome": "Guilherme Santos Oliveira",
-    "turma": 13,
+    "time": 13,
     "cidade": "Cicero Dantas",
     "estado": "BA",
     "endereco": "Cicero Dantas, BA",
@@ -2575,7 +2575,7 @@
   },
   {
     "nome": "Glayson Brendown Santos Silva",
-    "turma": 13,
+    "time": 13,
     "cidade": "Campina Grande",
     "estado": "PB",
     "endereco": "Campina Grande, PB",
@@ -2584,7 +2584,7 @@
   },
   {
     "nome": "Murilo Cavalcanti",
-    "turma": 13,
+    "time": 13,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2593,7 +2593,7 @@
   },
   {
     "nome": "Jonas Nunes de Oliveira",
-    "turma": 13,
+    "time": 13,
     "cidade": "Arraial do Cabo",
     "estado": "RJ",
     "endereco": "Arraial do Cabo, RJ",
@@ -2602,7 +2602,7 @@
   },
   {
     "nome": "Vitor Borgatte",
-    "turma": 13,
+    "time": 13,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2611,7 +2611,7 @@
   },
   {
     "nome": "Laíssa Saraiva da Cunha",
-    "turma": 13,
+    "time": 13,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2620,7 +2620,7 @@
   },
   {
     "nome": "Lucelia Alves Ribeiro",
-    "turma": 13,
+    "time": 13,
     "cidade": "São José",
     "estado": "SC",
     "endereco": "São José, SC",
@@ -2629,7 +2629,7 @@
   },
   {
     "nome": "Mariana Muniz",
-    "turma": 13,
+    "time": 13,
     "cidade": "São José dos Campos",
     "estado": "SP",
     "endereco": "São José dos Campos, SP",
@@ -2638,7 +2638,7 @@
   },
   {
     "nome": "Neto Vasconcellos",
-    "turma": 13,
+    "time": 13,
     "cidade": "Curitiba",
     "estado": "PR",
     "endereco": "Curitiba, PR",
@@ -2647,7 +2647,7 @@
   },
   {
     "nome": "Luís Eduardo Moura Santos",
-    "turma": 13,
+    "time": 13,
     "cidade": "Fortaleza",
     "estado": "CE",
     "endereco": "Fortaleza, CE",
@@ -2656,7 +2656,7 @@
   },
   {
     "nome": "Yuri Vieira dos Santos",
-    "turma": 13,
+    "time": 13,
     "cidade": "São Paulo",
     "estado": "SP",
     "endereco": "São Paulo, SP",
@@ -2665,7 +2665,7 @@
   },
   {
     "nome": "Leonardo Forgiarini Guedes",
-    "turma": 13,
+    "time": 13,
     "cidade": "Porto Alegre",
     "estado": "RS",
     "endereco": "Porto Alegre, RS",
@@ -2674,7 +2674,7 @@
   },
   {
     "nome": "Rodrigo Alves",
-    "turma": 13,
+    "time": 13,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2683,7 +2683,7 @@
   },
   {
     "nome": "Thaís Rodeiro",
-    "turma": 13,
+    "time": 13,
     "cidade": "Ouro Preto",
     "estado": "MG",
     "endereco": "Ouro Preto, MG",
@@ -2692,7 +2692,7 @@
   },
   {
     "nome": "Maria Cláudia Pio Ramos",
-    "turma": 13,
+    "time": 13,
     "cidade": "Alfenas",
     "estado": "MG",
     "endereco": "Alfenas, MG",
@@ -2701,7 +2701,7 @@
   },
   {
     "nome": "Samir Cunha",
-    "turma": 13,
+    "time": 13,
     "cidade": "Porto Alegre",
     "estado": "RS",
     "endereco": "Porto Alegre, RS",
@@ -2710,7 +2710,7 @@
   },
   {
     "nome": "Roberta Amaro",
-    "turma": 13,
+    "time": 13,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2719,7 +2719,7 @@
   },
   {
     "nome": "Cássio vinicius alves de carvalho",
-    "turma": 13,
+    "time": 13,
     "cidade": "Contagem",
     "estado": "MG",
     "endereco": "Contagem, MG",
@@ -2728,7 +2728,7 @@
   },
   {
     "nome": "Jailson Souza dos Santos",
-    "turma": 13,
+    "time": 13,
     "cidade": "Gravatá",
     "estado": "PE",
     "endereco": "Gravatá, PE",
@@ -2737,7 +2737,7 @@
   },
   {
     "nome": "David Felix",
-    "turma": 13,
+    "time": 13,
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "endereco": "Rio de Janeiro, RJ",
@@ -2746,7 +2746,7 @@
   },
   {
     "nome": "Thiago Tassinari",
-    "turma": 13,
+    "time": 13,
     "cidade": "São Luís",
     "estado": "MA",
     "endereco": "São Luís, MA",
@@ -2755,7 +2755,7 @@
   },
   {
     "nome": "Thiago Oliveira Barbosa",
-    "turma": 13,
+    "time": 13,
     "cidade": "Belo Horizonte",
     "estado": "MG",
     "endereco": "Belo Horizonte, MG",
@@ -2764,7 +2764,7 @@
   },
   {
     "nome": "Victor Assis",
-    "turma": 13,
+    "time": 13,
     "cidade": "Niterói",
     "estado": "RJ",
     "endereco": "Niterói, RJ",
