@@ -25,6 +25,9 @@ var markers = L.markerClusterGroup();
 const inputBusca = document.querySelector("[name='busca-texto']")
 
 inputBusca.addEventListener("input", (event) => {   
+    // tratar o valor digitado removendo acentos
+    const valorDigitado = event.target.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+
     // remover todos os layers desenhados no mapa, exceto o próprio mapa
     map.eachLayer(function(layer){
         if(layer._leaflet_id!=26) {
@@ -36,7 +39,8 @@ inputBusca.addEventListener("input", (event) => {
     // percorrer a listaDeMentorados, filtrar os dados e rodar a função criarCamadas
     let encontrados = []
     listaDeMentorados.forEach( (elemento) => {
-        if(elemento.nome.toLowerCase().includes(event.target.value.toLowerCase())) {
+        const nomeTratado = elemento.nome.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        if(nomeTratado.includes(valorDigitado)) {
             encontrados.push(elemento)
         }
         console.log(encontrados)
