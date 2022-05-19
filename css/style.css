@@ -38,3 +38,8 @@ html, body {
     border: none;
     min-width: 15vw;
 }
+
+.busca-time {
+    border-radius: 8px;
+    padding: 12px;
+}

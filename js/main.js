@@ -48,11 +48,15 @@ selectTime.addEventListener("input", (evento) => {
 
     // percorrer a listaDeMentorados, filtrando pelo time
     let encontrados = []
-    listaDeMentorados.forEach( (elemento) => {
-        if(elemento.time ==  evento.target.value) {
-            encontrados.push(elemento)
-        }
-    })
+    if(evento.target.value != "todos") {
+        listaDeMentorados.forEach( (elemento) => {
+            if(elemento.time ==  evento.target.value) {
+                encontrados.push(elemento)
+            }
+        })
+    } else {
+        encontrados = listaDeMentorados
+    }
     criarCamadas(encontrados)
 })
 
