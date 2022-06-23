@@ -6,7 +6,6 @@ extractGSheet("https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXwHr5zo0T1f_k3
     criarCamadas(lista)
     listaDeMentorados = lista
     gerarListaTimes(lista[lista.length - 1].time)
-    console.log(lista)
 })
 .catch((err) => {
     console.error(err);
@@ -17,7 +16,7 @@ extractGSheet("https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXwHr5zo0T1f_k3
 var map = L.map('map', {
     center: [-13.518, -51.372],
     zoom: 3,
-    zoomControl: false
+    zoomControl: true
 })
 
 
@@ -47,7 +46,6 @@ inputBusca.addEventListener("input", (event) => {
         if(nomeTratado.includes(valorDigitado)) {
             encontrados.push(elemento)
         }
-        console.log(encontrados)
     })
     criarCamadas(encontrados)
 })
