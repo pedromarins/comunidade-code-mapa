@@ -5,6 +5,8 @@ extractGSheet("https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXwHr5zo0T1f_k3
     const lista = res.tables[0].data;
     criarCamadas(lista)
     listaDeMentorados = lista
+    gerarListaTimes(lista[lista.length - 1].time)
+    console.log(lista)
 })
 .catch((err) => {
     console.error(err);
@@ -86,3 +88,16 @@ function limparMapa() {
         }
     });
 }
+
+function gerarListaTimes (ultimo) {
+    var select = document.querySelector('#busca-time')
+
+    for(i=0; i<=ultimo; i++){
+        var option = document.createElement('option');
+        option.value = i
+        option.textContent = "Time " + i
+        select.appendChild(option)
+    }
+}
+
+
