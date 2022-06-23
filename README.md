@@ -12,4 +12,4 @@
 - [X] Busca dinâmica a partir da digitação
 - [X] Busca com acentos encontrar os resultados
 - [X] Buscar todos do mesmo time
-- [ ] Carregar dinamicamente os dados dos mentorados da planilha oficial
+- [X] Carregar dinamicamente os dados dos mentorados da planilha oficial

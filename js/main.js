@@ -1,12 +1,16 @@
 let listaDeMentorados = []
-fetch("./js/mentorados.json")
-.then(response => {
-    return response.json();
+
+extractGSheet("https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXwHr5zo0T1f_k35JnOPP_BG21v6GxBOgGPcAtSJJX7EKdJUzwHJFR0nacHQydSsXUrOFksN_uDLM/pubhtml?gid=0&single=true")
+.then((res) => {
+    const lista = res.tables[0].data;
+    criarCamadas(lista)
+    listaDeMentorados = lista
 })
-.then(arquivoDeMentorados => {
-    criarCamadas(arquivoDeMentorados)
-    listaDeMentorados = arquivoDeMentorados
+.catch((err) => {
+    console.error(err);
 });
+
+
 
 var map = L.map('map').setView([-13.518, -51.372], 3);
 
