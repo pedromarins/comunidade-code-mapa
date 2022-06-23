@@ -26,6 +26,7 @@ html, body {
 .logo {
     margin: 0;
     height: 50px;
+    text-align: center;
 }
 
 .logo-imagem {
@@ -42,4 +43,25 @@ html, body {
 .busca-time {
     border-radius: 8px;
     padding: 12px;
+}
+
+@media (max-width: 720px) {
+    .topo {
+        display: block;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    .logo {
+        margin: auto
+    }
+
+    .busca {
+        display: flex;
+        margin-top: 15px;
+        justify-content: center;
+        gap: 15px;
+    }
+
+
 }

@@ -14,3 +14,4 @@
 - [X] Buscar todos do mesmo time
 - [X] Carregar dinamicamente os dados dos mentorados da planilha oficial
 - [X] Lista do busca-time atualizar dinâmicamente
+- [X] Deixar o mapa responsivo
