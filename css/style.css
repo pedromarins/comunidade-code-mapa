@@ -45,6 +45,12 @@ html, body {
     padding: 12px;
 }
 
+
+/* Removendo botão do zoom */
+.leaflet-top, .leaflet-left{
+    display: none;
+}
+
 @media (max-width: 720px) {
     .topo {
         display: block;
