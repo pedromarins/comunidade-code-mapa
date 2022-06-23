@@ -14,7 +14,11 @@ extractGSheet("https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXwHr5zo0T1f_k3
 
 
 
-var map = L.map('map').setView([-13.518, -51.372], 3);
+var map = L.map('map', {
+    center: [-13.518, -51.372],
+    zoom: 3,
+    zoomControl: false
+})
 
 
 var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -23,7 +27,7 @@ var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}
         'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     id: 'mapbox/streets-v11',
     tileSize: 512,
-    zoomOffset: -1
+    zoomOffset: -1,
 }).addTo(map);
 
 var markers = L.markerClusterGroup();
